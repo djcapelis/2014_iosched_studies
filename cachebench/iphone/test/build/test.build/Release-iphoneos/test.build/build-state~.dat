@@ -1,0 +1,768 @@
+Ttest
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test.momd /Users/djc/Documents/microbenchmarksforiphone/test/test/test.xcdatamodeld
+cProcessPCH /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.pch test/test-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.pch test/test-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.pch test/test-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test normal armv7
+cLd /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test normal armv7s
+cLd /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test normal arm64
+cCreateUniversalBinary /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test normal armv7\ armv7s\ arm64
+cCopyStringsFile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/djc/Documents/microbenchmarksforiphone/test/test/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app /Users/djc/Documents/microbenchmarksforiphone/test/test/Images.xcassets
+cProcessInfoPlistFile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Info.plist /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist
+cGenerateDSYMFile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app.dSYM /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test
+cPhaseScriptExecution Run\ Script /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c0000000052CE7E640000000000000132
+t1389264484
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052CE7E6A000000000000036B
+t1389264490
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052771D5C00000000000001A0
+t1383538012
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052771D5F00000000008E4090
+t1383538015
+s9322640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052771D5E00000000004D63C0
+t1383538014
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052771D600000000000A92BC0
+t1383538016
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052771D6B00000000025A5AC0
+t1383538027
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005244F4690000000000000AC9
+t1380250729
+s2761
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app.dSYM
+t2
+s0
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Base.lproj/Main.storyboardc
+t2
+s0
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Info.plist
+t1389264803
+s1322
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/PkgInfo
+t1389264803
+s8
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test
+t1389264798
+s206796
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test.momd
+t2
+s0
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o
+t1389264798
+s87568
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o
+t1389264798
+s45540
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o
+t1389264798
+s50324
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o
+t1389264798
+s4280
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test
+t1389264798
+s59340
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test.LinkFileList
+c0000000052CE7F980000000000000217
+t1389264792
+s535
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o
+t1389264797
+s79584
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o
+t1389264797
+s44904
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o
+t1389264797
+s49168
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o
+t1389264797
+s4004
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test
+t1389264798
+s58692
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test.LinkFileList
+c0000000052CE7F980000000000000217
+t1389264792
+s535
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o
+t1389264797
+s79584
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o
+t1389264797
+s44904
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o
+t1389264797
+s49168
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o
+t1389264797
+s4004
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test
+t1389264798
+s58696
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test.LinkFileList
+c0000000052CE7F98000000000000021B
+t1389264792
+s539
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh
+c0000000052CE7F98000000000000019D
+t1389264792
+s413
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/assetcatalog_dependencies.txt
+t1389264802
+s351
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/assetcatalog_generated_info.plist
+t1389264802
+s525
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m
+c0000000052CE7AC40000000000001A95
+t1389263556
+s6805
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/Base.lproj/Main.storyboard
+c0000000052CE7AC400000000000017B1
+t1389263556
+s6065
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m
+c0000000052CE7AC500000000000002B0
+t1389263557
+s688
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/Images.xcassets
+c0000000052CE7AC50000000000000088
+t1389263557
+s136
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m
+c0000000052CE7AC50000000000000375
+t1389263557
+s885
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/en.lproj/InfoPlist.strings
+c0000000052CE7AC4000000000000002D
+t1389263556
+s45
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/main.m
+c0000000052CE7B460000000000000520
+t1389263686
+s1312
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist
+c0000000052CE7AC40000000000000585
+t1389263556
+s1413
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch
+c0000000052CE7AC4000000000000017A
+t1389263556
+s378
+
+N/Users/djc/Documents/microbenchmarksforiphone/test/test/test.xcdatamodeld
+c0000000052CE7AC50000000000000088
+t1389263557
+s136
+
+N/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.pch
+t1389264795
+s81628
+
+N/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.pch
+t1389264796
+s96600
+
+N/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.pch
+t1389264795
+s81648
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies06bb0918b77eb841^8176af18b77eb841^---0#1#1#--18"Check dependencies36"8B1763F3-F8DA-4CF8-A711-2DF059A90B45-
+
+CCompileAssetCatalog /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app /Users/djc/Documents/microbenchmarksforiphone/test/test/Images.xcassets
+s410957598.591859
+e410957602.587109
+r1
+xCompileAssetCatalog
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/LaunchImage-700-568h@2x.png
+o/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Assets.car
+o/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"[1mCompileAssetCatalog[0m build/Release-iphoneos/test.app [1mtest/Images.xcassets[0m88"[1mCompileAssetCatalog[0m build/Release-iphoneos/test.app [1mtest/Images.xcassets[0m3fac971eb77eb841^4d4d9622b77eb841^-379"/* com.apple.actool.compilation-results *//Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/LaunchImage-700-568h@2x.png/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Assets.car/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@79"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/Images.xcassets/0000000000000000^1144"[1mCompileAssetCatalog[0m build/Release-iphoneos/test.app [1mtest/Images.xcassets[0m    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app /Users/djc/Documents/microbenchmarksforiphone/test/test/Images.xcassets36"F3DE2CA3-71E3-44BA-9A9A-69613A71E69E-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.856977
+e410957598.052024
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m192"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o [1mtest/AppDelegate.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9888db1db77eb841^7a530d1eb77eb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m0000000000000000^3639"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o [1mtest/AppDelegate.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/arm64 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o36"55797A4B-5A69-4C63-A409-9B981446E6B5-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957598.039465
+e410957598.142901
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m214"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o [1mtest/FlipsideViewController.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8e3e0a1eb77eb841^c095241eb77eb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m0000000000000000^3705"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o [1mtest/FlipsideViewController.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/arm64 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o36"B0FE132E-1D9F-4912-8CA5-50BDA8165916-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957598.052396
+e410957598.157765
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m206"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o [1mtest/MainViewController.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler87a50d1eb77eb841^1b66281eb77eb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m0000000000000000^3681"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o [1mtest/MainViewController.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/arm64 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o36"087A1251-9A08-43E2-9B26-EB7AED365BCE-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.974499
+e410957598.039103
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m178"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o [1mtest/main.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilera29bf91db77eb841^e2040a1eb77eb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/main.m0000000000000000^3597"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o [1mtest/main.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/arm64 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o36"599CE2B1-18EE-4504-9947-7407299F0059-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957596.995983
+e410957597.332406
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m192"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o [1mtest/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4f21ff1cb77eb841^eb1a551db77eb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m0000000000000000^3639"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o [1mtest/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o36"9A534735-ED84-4AC6-A8C7-CF8C12067ADA-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.407629
+e410957597.499086
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m214"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o [1mtest/FlipsideViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere980681db77eb841^f0c17f1db77eb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m0000000000000000^3705"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o [1mtest/FlipsideViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o36"8516BB10-6EC8-4C40-A7C7-74444442F645-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.499517
+e410957597.588845
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m206"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o [1mtest/MainViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9b03801db77eb841^6ec1961db77eb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m0000000000000000^3681"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o [1mtest/MainViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o36"D9489211-C464-45BD-904A-D4BDAA8FF970-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.332863
+e410957597.407163
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m178"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o [1mtest/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5857551db77eb841^083c681db77eb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/main.m0000000000000000^3597"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o [1mtest/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o36"5E52D721-B671-4CE5-89E1-4DB84C9EA0CC-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.589322
+e410957597.714444
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m194"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o [1mtest/AppDelegate.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler5c03971db77eb841^e2e8b61db77eb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m0000000000000000^3646"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o [1mtest/AppDelegate.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7s -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/AppDelegate.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o36"29F752A6-05A6-4FD2-87E8-D10C0EFE7DF3-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.765001
+e410957597.856411
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m216"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o [1mtest/FlipsideViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6803c41db77eb841^533fdb1db77eb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m0000000000000000^3712"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o [1mtest/FlipsideViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7s -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o36"2564144E-9532-4D58-960D-E6C8707EFBAD-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.856890
+e410957597.974106
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.h
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m208"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o [1mtest/MainViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilera984db1db77eb841^145ff91db77eb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m0000000000000000^3688"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o [1mtest/MainViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7s -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/MainViewController.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o36"EA42F6E9-DACB-4515-8043-E80AF6E57C22-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileC build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957597.714928
+e410957597.764488
+r1
+xCompileC
+xbuild/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m180"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o [1mtest/main.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd02ab71db77eb841^afb5c31db77eb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/main.m0000000000000000^3604"[1mCompileC[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o [1mtest/main.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7s -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -include /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch -MMD -MT dependencies -MF /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.dia -c /Users/djc/Documents/microbenchmarksforiphone/test/test/main.m -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o36"7C7AABB7-1B99-46CC-9E6A-45A0E49B0A10-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCompileStoryboard /Users/djc/Documents/microbenchmarksforiphone/test/test/Base.lproj/Main.storyboard
+s410957598.586153
+e410957603.351872
+r1
+xCompileStoryboard
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"[1mCompileStoryboard[0m [1mtest/Base.lproj/Main.storyboard[0m65"[1mCompileStoryboard[0m [1mtest/Base.lproj/Main.storyboard[0ma12e961eb77eb841^751d5a23b77eb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/Base.lproj/Main.storyboard0000000000000000^895"[1mCompileStoryboard[0m [1mtest/Base.lproj/Main.storyboard[0m    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Base.lproj/Main.storyboardc /Users/djc/Documents/microbenchmarksforiphone/test/test/Base.lproj/Main.storyboard36"F61D06B8-6754-4C43-9DF9-8645E9EF0A58-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCopyStringsFile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings
+s410957598.585935
+e410957598.591555
+r1
+xCopyStringsFile
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/en.lproj/InfoPlist.strings
+xtest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy test/en.lproj/InfoPlist.strings114"[1mCopyStringsFile[0m build/Release-iphoneos/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings7429961eb77eb841^7671971eb77eb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/en.lproj/InfoPlist.strings0000000000000000^657"[1mCopyStringsFile[0m build/Release-iphoneos/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/en.lproj -- test/en.lproj/InfoPlist.strings36"28324FDF-374C-4F64-9449-D077B2C0C2AA-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CCreateUniversalBinary /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test normal armv7\ armv7s\ arm64
+s410957598.559776
+e410957598.585238
+r1
+xCreateUniversalBinary
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Create universal binary /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test102"[1mCreateUniversalBinary[0m [1mbuild/Release-iphoneos/test.app/test[0m normal armv7\ armv7s\ arm64d6728f1eb77eb841^67d3951eb77eb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test0034349cdcffdf42^908"[1mCreateUniversalBinary[0m [1mbuild/Release-iphoneos/test.app/test[0m normal armv7\ armv7s\ arm64    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    lipo -create /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test -output /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test36"5C220773-706D-4A73-B49E-1C16191370C7-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CDataModelVersionCompile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test.momd /Users/djc/Documents/microbenchmarksforiphone/test/test/test.xcdatamodeld
+s410957592.704497
+e410957593.889363
+r1
+xDataModelVersionCompile
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test.momd
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/test.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mDataModelVersionCompile[0m build/Release-iphoneos/test.app/test.momd [1mtest/test.xcdatamodeld[0m104"[1mDataModelVersionCompile[0m build/Release-iphoneos/test.app/test.momd [1mtest/test.xcdatamodeld[0m228bb418b77eb841^d6ace319b77eb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/test.xcdatamodeld/0000000000000000^833"[1mDataModelVersionCompile[0m build/Release-iphoneos/test.app/test.momd [1mtest/test.xcdatamodeld[0m    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos /Users/djc/Documents/microbenchmarksforiphone/test/test/test.xcdatamodeld /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test.momd36"786F5159-FE07-422B-BB3F-62C4DDE8A8ED-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CGenerateDSYMFile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app.dSYM /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test
+s410957603.357775
+e410957603.430663
+r1
+xGenerateDSYMFile
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app.dSYM
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Generate /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app.dSYM106"[1mGenerateDSYMFile[0m [1mbuild/Release-iphoneos/test.app.dSYM[0m build/Release-iphoneos/test.app/teste6ac5b23b77eb841^85406e23b77eb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app.dSYM0034349cdcffdf42^711"[1mGenerateDSYMFile[0m [1mbuild/Release-iphoneos/test.app.dSYM[0m build/Release-iphoneos/test.app/test    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/test -o /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app.dSYM36"F0B5620E-ACED-48F6-A070-7DFCBABFF449-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CLd /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test normal arm64
+s410957598.422191
+e410957598.558116
+r1
+xLd
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test
+xnormal
+xarm64
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test.LinkFileList
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/AppDelegate.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/main.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/FlipsideViewController.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test94"[1mLd[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test normal arm646d386c1eb77eb841^ace18e1eb77eb841^---0#0#1#--1435"[1mLd[0m build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test normal arm64    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -filelist /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test_dependency_info.dat -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test36"9C7E4184-9CD6-4D7E-81F7-C1E41213D65F-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CLd /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test normal armv7
+s410957598.158914
+e410957598.421390
+r1
+xLd
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test
+xnormal
+xarmv7
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test.LinkFileList
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/AppDelegate.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/main.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/FlipsideViewController.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test94"[1mLd[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test normal armv700c9281eb77eb841^65e16b1eb77eb841^---0#0#1#--1435"[1mLd[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test normal armv7    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -filelist /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test_dependency_info.dat -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test36"3704B8BA-D3CB-4DF4-822A-2657FFD630B1-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CLd /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test normal armv7s
+s410957598.159405
+e410957598.421420
+r1
+xLd
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test
+xnormal
+xarmv7s
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test.LinkFileList
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/main.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/FlipsideViewController.o
+d/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Link /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test96"[1mLd[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test normal armv7s20f0281eb77eb841^b2f66b1eb77eb841^---0#0#1#--1441"[1mLd[0m build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test normal armv7s    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos -filelist /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test_dependency_info.dat -o /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test36"09D7D9B4-EF83-4A3B-A29E-7B732C68C832-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CPhaseScriptExecution Run\ Script /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh
+s410957603.432645
+e410957603.593773
+r0
+xPhaseScriptExecution
+xRun Script
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh
+o/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh: line 4: /Library/JailCoder/Entitlements/Entitlements.py: No such file or directory
+oiPhone Developer: no identity found
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'114"[1mPhaseScriptExecution[0m Run\ Script build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh29966f23b77eb841^da049823b77eb841^-245"/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh: line 4: /Library/JailCoder/Entitlements/Entitlements.py: No such file or directoryiPhone Developer: no identity found2(21%IDEActivityLogMessage2@208"/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh: line 4: /Library/JailCoder/Entitlements/Entitlements.py: No such file or directory-410957603#0#209#-2#--29"Shell Script Invocation Error--2@36"iPhone Developer: no identity found-410957603#209#36#-0#-----0#0#1#--22207"[1mPhaseScriptExecution[0m Run\ Script build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER djc    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv7 armv7s arm64"    setenv ARCHS_STANDARD "armv7 armv7s"    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_64_BIT arm64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "armv7 armv7s arm64"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv ASSETCATALOG_COMPILER_APPICON_NAME AppIcon    setenv ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME LaunchImage    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build    setenv BUILD_ROOT /Users/djc/Documents/microbenchmarksforiphone/test/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos    setenv CACHE_ROOT /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CCHROOT /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_CXX_LANGUAGE_STANDARD gnu++0x    setenv CLANG_CXX_LIBRARY libc++    setenv CLANG_ENABLE_MODULES YES    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_BOOL_CONVERSION YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_DIRECT_OBJC_ISA_USAGE YES_ERROR    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN_OBJC_ROOT_CLASS YES_ERROR    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED NO    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv COLOR_DIAGNOSTICS YES    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos    setenv CONTENTS_FOLDER_PATH test.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH arm64    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH test.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/test.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME test.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_NS_ASSERTIONS NO    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH test.app/Executables    setenv EXECUTABLE_FOLDER_PATH test.app    setenv EXECUTABLE_NAME test    setenv EXECUTABLE_PATH test.app/test    setenv FILE_LIST /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH test.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME test.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER test/test-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_64_TO_32_BIT_CONVERSION YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES_ERROR    setenv GCC_WARN_UNDECLARED_SELECTOR YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE test/test-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH test.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH test.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/test.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER djc    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/test.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH test.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-LinkMap-normal-arm64.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_arm64 /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/arm64/test.LinkFileList    setenv LINK_FILE_LIST_normal_armv7 /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7/test.LinkFileList    setenv LINK_FILE_LIST_normal_armv7s /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal/armv7s/test.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH test.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 13B42    setenv MAC_OS_X_VERSION_ACTUAL 1091    setenv MAC_OS_X_VERSION_MAJOR 1090    setenv MAC_OS_X_VERSION_MINOR 0901    setenv MODULE_CACHE_DIR /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Objects-normal    setenv OBJROOT /Users/djc/Documents/microbenchmarksforiphone/test/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH test.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/PkgInfo    setenv PKGINFO_PATH test.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH arm64    setenv PLATFORM_PRODUCT_BUILD_VERSION 11B508    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH test.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH test.app/PrivateHeaders    setenv PRODUCT_NAME test    setenv PRODUCT_SETTINGS_PATH /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT test    setenv PROJECT_DERIVED_FILE_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/DerivedSources    setenv PROJECT_DIR /Users/djc/Documents/microbenchmarksforiphone/test    setenv PROJECT_FILE_PATH /Users/djc/Documents/microbenchmarksforiphone/test/test.xcodeproj    setenv PROJECT_NAME test    setenv PROJECT_TEMP_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build    setenv PROJECT_TEMP_ROOT /Users/djc/Documents/microbenchmarksforiphone/test/build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH test.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH test.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_NAME iphoneos7.0    setenv SDK_PRODUCT_BUILD_VERSION 11B508    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH test.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH test.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/djc/Documents/microbenchmarksforiphone/test    setenv SRCROOT /Users/djc/Documents/microbenchmarksforiphone/test    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/djc/Documents/microbenchmarksforiphone/test/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME test    setenv TARGET_BUILD_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos    setenv TARGET_NAME test    setenv TARGET_TEMP_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build    setenv TEMP_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build    setenv TEMP_FILES_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build    setenv TEMP_FILE_DIR /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build    setenv TEMP_ROOT /Users/djc/Documents/microbenchmarksforiphone/test/build    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH test.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER djc    setenv USER_APPS_DIR /Users/djc/Applications    setenv USER_LIBRARY_DIR /Users/djc/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT YES    setenv VALID_ARCHS "arm64 armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH test.app/version.plist    setenv VERSION_INFO_BUILDER djc    setenv VERSION_INFO_FILE test_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:test  PROJECT:test-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME test.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A3005    setenv XCODE_VERSION_ACTUAL 0502    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH test.app/XPCServices    setenv YACC yacc    setenv arch arm64    setenv diagnostic_message_length 150    setenv variant normal    /bin/sh -c /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/Script-50524F424C454D533F.sh36"21EAC8EB-79BE-48C6-ABAF-53303BADDEFA-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CProcessInfoPlistFile /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Info.plist /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist
+s410957603.353170
+e410957603.357075
+r1
+xProcessInfoPlistFile
+x/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Info.plist
+x/Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Process /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist100"[1mProcessInfoPlistFile[0m build/Release-iphoneos/test.app/Info.plist [1mtest/test-Info.plist[0mf1845a23b77eb841^db695b23b77eb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist0000000000000000^935"[1mProcessInfoPlistFile[0m build/Release-iphoneos/test.app/Info.plist [1mtest/test-Info.plist[0m    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    builtin-infoPlistUtility /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Info.plist -genpkginfo /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -additionalcontentfile /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/assetcatalog_generated_info.plist -o /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app/Info.plist36"7005EE15-69C8-4CCB-B0CC-C3C3516F0E40-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CProcessPCH /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.pch test/test-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957593.889778
+e410957595.855211
+r1
+xProcessPCH
+x/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.pch
+xtest/test-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch288"[1mProcessPCH[0m /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.pch test/test-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler5ef6e319b77eb841^5c1edb1bb77eb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch0000000000000000^3702"[1mProcessPCH[0m /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.pch test/test-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7s -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos --serialize-diagnostics /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.d -c /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch -o /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-anjlxidqmdkjrihkxierxainpybn/test-Prefix.pch.pch36"3B04C722-ED01-4618-A402-FFB11AA5933D-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CProcessPCH /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.pch test/test-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957595.851858
+e410957596.994505
+r1
+xProcessPCH
+x/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.pch
+xtest/test-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch287"[1mProcessPCH[0m /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.pch test/test-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0f44da1bb77eb841^4e9afe1cb77eb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch0000000000000000^3699"[1mProcessPCH[0m /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.pch test/test-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/arm64 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos --serialize-diagnostics /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.d -c /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch -o /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-dcglutdrbuzjykgsykeccddztwom/test-Prefix.pch.pch36"11C713BD-9043-48B6-937E-F2A91CEB01C7-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CProcessPCH /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.pch test/test-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410957592.706231
+e410957595.851265
+r1
+xProcessPCH
+x/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.pch
+xtest/test-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch287"[1mProcessPCH[0m /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.pch test/test-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler56f3b418b77eb841^68ead91bb77eb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch0000000000000000^3699"[1mProcessPCH[0m /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.pch test/test-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/djc/Documents/microbenchmarksforiphone/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/texlive/2011basic/bin/universal-darwin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=150 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-generated-files.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-own-target-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-all-target-headers.hmap -iquote /Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/test-project-headers.hmap -I/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources/armv7 -I/Users/djc/Documents/microbenchmarksforiphone/test/build/test.build/Release-iphoneos/test.build/DerivedSources -F/Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos --serialize-diagnostics /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.d -c /Users/djc/Documents/microbenchmarksforiphone/test/test/test-Prefix.pch -o /var/folders/pn/r3tbgp7s7wj57yccdx5f2ck00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/test-Prefix-euvseyprxdmakubvexmlwbjaofia/test-Prefix.pch.pch36"AF2C8A40-6852-4618-9B05-E0B5AFEFF592-
+bA849D48A-EE74-4256-904D-7A9E435289B3
+
+CTouch /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app
+r0
+
+CValidate /Users/djc/Documents/microbenchmarksforiphone/test/build/Release-iphoneos/test.app
+r0
+

@@ -1,0 +1,3045 @@
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4567
+L2: sec: 0 us: 30382
+Test 4:
+MM: sec: 0 us: 6619
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6614
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6628
+MM: sec: 0 us: 6627
+Test 7:
+MM: sec: 0 us: 13901
+MM: sec: 0 us: 13852
+MM: sec: 0 us: 13877
+MM: sec: 0 us: 13848
+Test 8:
+MM: sec: 0 us: 10718
+L3H: sec: 0 us: 22997
+L2: sec: 0 us: 27494
+Test 9:
+MM: sec: 0 us: 5711
+L3: sec: 0 us: 22832
+L2: sec: 0 us: 30999
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4572
+L2: sec: 0 us: 27760
+Test 4:
+MM: sec: 0 us: 6622
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6624
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6609
+MM: sec: 0 us: 6608
+Test 7:
+MM: sec: 0 us: 13862
+MM: sec: 0 us: 13899
+MM: sec: 0 us: 13868
+MM: sec: 0 us: 13854
+Test 8:
+MM: sec: 0 us: 11870
+L3H: sec: 0 us: 23995
+L2: sec: 0 us: 27415
+Test 9:
+MM: sec: 0 us: 5553
+L3: sec: 0 us: 36207
+L2: sec: 0 us: 29164
+Test 1:
+MM: sec: 0 us: 4480
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4525
+L2: sec: 0 us: 26060
+Test 4:
+MM: sec: 0 us: 6622
+L3H: sec: 0 us: 22380
+Test 5:
+MM: sec: 0 us: 6624
+L3: sec: 0 us: 22388
+Test 6:
+MM: sec: 0 us: 6606
+MM: sec: 0 us: 6605
+Test 7:
+MM: sec: 0 us: 13879
+MM: sec: 0 us: 13914
+MM: sec: 0 us: 13898
+MM: sec: 0 us: 13909
+Test 8:
+MM: sec: 0 us: 11216
+L3H: sec: 0 us: 23716
+L2: sec: 0 us: 27617
+Test 9:
+MM: sec: 0 us: 9549
+L3: sec: 0 us: 22880
+L2: sec: 0 us: 30829
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4569
+L2: sec: 0 us: 30078
+Test 4:
+MM: sec: 0 us: 6619
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6617
+L3: sec: 0 us: 22386
+Test 6:
+MM: sec: 0 us: 6645
+MM: sec: 0 us: 6641
+Test 7:
+MM: sec: 0 us: 13887
+MM: sec: 0 us: 13915
+MM: sec: 0 us: 13849
+MM: sec: 0 us: 13910
+Test 8:
+MM: sec: 0 us: 11308
+L3H: sec: 0 us: 23238
+L2: sec: 0 us: 27653
+Test 9:
+MM: sec: 0 us: 9589
+L3: sec: 0 us: 22875
+L2: sec: 0 us: 31527
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4576
+L2: sec: 0 us: 27363
+Test 4:
+MM: sec: 0 us: 6619
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6614
+L3: sec: 0 us: 22389
+Test 6:
+MM: sec: 0 us: 6636
+MM: sec: 0 us: 6637
+Test 7:
+MM: sec: 0 us: 13881
+MM: sec: 0 us: 13866
+MM: sec: 0 us: 13982
+MM: sec: 0 us: 13809
+Test 8:
+MM: sec: 0 us: 11725
+L3H: sec: 0 us: 23278
+L2: sec: 0 us: 31550
+Test 9:
+MM: sec: 0 us: 9608
+L3: sec: 0 us: 22878
+L2: sec: 0 us: 43248
+Test 1:
+MM: sec: 0 us: 4476
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4590
+L2: sec: 0 us: 28080
+Test 4:
+MM: sec: 0 us: 6615
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6623
+L3: sec: 0 us: 22388
+Test 6:
+MM: sec: 0 us: 6622
+MM: sec: 0 us: 6622
+Test 7:
+MM: sec: 0 us: 13879
+MM: sec: 0 us: 13813
+MM: sec: 0 us: 13895
+MM: sec: 0 us: 13850
+Test 8:
+MM: sec: 0 us: 11644
+L3H: sec: 1 us: -976289
+L2: sec: 0 us: 28116
+Test 9:
+MM: sec: 0 us: 9592
+L3: sec: 0 us: 22800
+L2: sec: 0 us: 30447
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4572
+L2: sec: 0 us: 26581
+Test 4:
+MM: sec: 0 us: 6620
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6620
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6620
+MM: sec: 0 us: 6618
+Test 7:
+MM: sec: 0 us: 13901
+MM: sec: 0 us: 13865
+MM: sec: 0 us: 13834
+MM: sec: 0 us: 13892
+Test 8:
+MM: sec: 0 us: 11806
+L3H: sec: 0 us: 24003
+L2: sec: 0 us: 29399
+Test 9:
+MM: sec: 0 us: 9594
+L3: sec: 0 us: 22951
+L2: sec: 0 us: 34238
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4573
+L2: sec: 0 us: 26450
+Test 4:
+MM: sec: 0 us: 6616
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6617
+L3: sec: 0 us: 22389
+Test 6:
+MM: sec: 0 us: 6647
+MM: sec: 0 us: 6641
+Test 7:
+MM: sec: 0 us: 13876
+MM: sec: 0 us: 13884
+MM: sec: 0 us: 13891
+MM: sec: 0 us: 13879
+Test 8:
+MM: sec: 0 us: 8982
+L3H: sec: 0 us: 22827
+L2: sec: 0 us: 27364
+Test 9:
+MM: sec: 0 us: 9434
+L3: sec: 0 us: 22521
+L2: sec: 0 us: 30058
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4480
+Test 3:
+MM: sec: 0 us: 4577
+L2: sec: 0 us: 26768
+Test 4:
+MM: sec: 0 us: 6624
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6615
+L3: sec: 0 us: 22388
+Test 6:
+MM: sec: 0 us: 6624
+MM: sec: 0 us: 6646
+Test 7:
+MM: sec: 0 us: 13895
+MM: sec: 0 us: 13904
+MM: sec: 0 us: 13916
+MM: sec: 0 us: 13849
+Test 8:
+MM: sec: 0 us: 11344
+L3H: sec: 0 us: 23136
+L2: sec: 0 us: 30173
+Test 9:
+MM: sec: 0 us: 9550
+L3: sec: 1 us: -977153
+L2: sec: 1 us: -966545
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4576
+L2: sec: 0 us: 26394
+Test 4:
+MM: sec: 0 us: 6622
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6623
+L3: sec: 0 us: 22388
+Test 6:
+MM: sec: 0 us: 6639
+MM: sec: 0 us: 6639
+Test 7:
+MM: sec: 0 us: 13854
+MM: sec: 0 us: 13815
+MM: sec: 0 us: 13784
+MM: sec: 0 us: 13984
+Test 8:
+MM: sec: 0 us: 8704
+L3H: sec: 0 us: 22807
+L2: sec: 0 us: 27340
+Test 9:
+MM: sec: 0 us: 9548
+L3: sec: 0 us: 22803
+L2: sec: 0 us: 33246
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4480
+Test 3:
+MM: sec: 0 us: 4570
+L2: sec: 0 us: 27741
+Test 4:
+MM: sec: 0 us: 6617
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6621
+L3: sec: 0 us: 22399
+Test 6:
+MM: sec: 0 us: 6644
+MM: sec: 0 us: 6640
+Test 7:
+MM: sec: 0 us: 13851
+MM: sec: 0 us: 13933
+MM: sec: 0 us: 13921
+MM: sec: 0 us: 13844
+Test 8:
+MM: sec: 0 us: 11059
+L3H: sec: 0 us: 23112
+L2: sec: 0 us: 27983
+Test 9:
+MM: sec: 0 us: 5678
+L3: sec: 0 us: 35050
+L2: sec: 0 us: 32207
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4487
+Test 3:
+MM: sec: 0 us: 4542
+L2: sec: 0 us: 26121
+Test 4:
+MM: sec: 0 us: 6622
+L3H: sec: 0 us: 22386
+Test 5:
+MM: sec: 0 us: 6627
+L3: sec: 0 us: 22389
+Test 6:
+MM: sec: 0 us: 6630
+MM: sec: 0 us: 6627
+Test 7:
+MM: sec: 0 us: 13864
+MM: sec: 0 us: 13897
+MM: sec: 0 us: 13880
+MM: sec: 0 us: 13913
+Test 8:
+MM: sec: 0 us: 8979
+L3H: sec: 0 us: 22829
+L2: sec: 0 us: 27393
+Test 9:
+MM: sec: 0 us: 5955
+L3: sec: 0 us: 33693
+L2: sec: 0 us: 30858
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4545
+L2: sec: 0 us: 26219
+Test 4:
+MM: sec: 0 us: 6620
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6630
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6632
+MM: sec: 0 us: 6629
+Test 7:
+MM: sec: 0 us: 13801
+MM: sec: 0 us: 13948
+MM: sec: 0 us: 13565
+MM: sec: 0 us: 14260
+Test 8:
+MM: sec: 0 us: 5480
+L3H: sec: 0 us: 36416
+L2: sec: 0 us: 48049
+Test 9:
+MM: sec: 0 us: 10085
+L3: sec: 0 us: 22956
+L2: sec: 0 us: 27438
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4573
+L2: sec: 0 us: 26274
+Test 4:
+MM: sec: 0 us: 6624
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6622
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6636
+MM: sec: 0 us: 6635
+Test 7:
+MM: sec: 0 us: 13916
+MM: sec: 0 us: 13823
+MM: sec: 0 us: 13880
+MM: sec: 0 us: 13858
+Test 8:
+MM: sec: 0 us: 11895
+L3H: sec: 0 us: 24087
+L2: sec: 0 us: 29407
+Test 9:
+MM: sec: 0 us: 5513
+L3: sec: 0 us: 36416
+L2: sec: 0 us: 32739
+Test 1:
+MM: sec: 0 us: 4490
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4541
+L2: sec: 1 us: -973778
+Test 4:
+MM: sec: 0 us: 6612
+L3H: sec: 0 us: 22403
+Test 5:
+MM: sec: 0 us: 6615
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6635
+MM: sec: 0 us: 6634
+Test 7:
+MM: sec: 0 us: 13858
+MM: sec: 0 us: 13877
+MM: sec: 0 us: 13863
+MM: sec: 0 us: 13897
+Test 8:
+MM: sec: 0 us: 11589
+L3H: sec: 0 us: 23714
+L2: sec: 0 us: 27633
+Test 9:
+MM: sec: 0 us: 5733
+L3: sec: 0 us: 34635
+L2: sec: 0 us: 30822
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4480
+Test 3:
+MM: sec: 0 us: 4546
+L2: sec: 0 us: 26169
+Test 4:
+MM: sec: 0 us: 6614
+L3H: sec: 0 us: 22386
+Test 5:
+MM: sec: 0 us: 6626
+L3: sec: 0 us: 22388
+Test 6:
+MM: sec: 0 us: 6633
+MM: sec: 0 us: 6631
+Test 7:
+MM: sec: 0 us: 13877
+MM: sec: 0 us: 13912
+MM: sec: 0 us: 13884
+MM: sec: 0 us: 13915
+Test 8:
+MM: sec: 0 us: 11864
+L3H: sec: 0 us: 24039
+L2: sec: 0 us: 29382
+Test 9:
+MM: sec: 0 us: 9586
+L3: sec: 0 us: 22893
+L2: sec: 0 us: 43431
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4571
+L2: sec: 0 us: 26946
+Test 4:
+MM: sec: 0 us: 6617
+L3H: sec: 0 us: 22472
+Test 5:
+MM: sec: 0 us: 6621
+L3: sec: 0 us: 22528
+Test 6:
+MM: sec: 0 us: 6620
+MM: sec: 0 us: 6620
+Test 7:
+MM: sec: 0 us: 13848
+MM: sec: 0 us: 13893
+MM: sec: 0 us: 13895
+MM: sec: 0 us: 13882
+Test 8:
+MM: sec: 0 us: 11548
+L3H: sec: 0 us: 23611
+L2: sec: 0 us: 27885
+Test 9:
+MM: sec: 0 us: 11663
+L3: sec: 0 us: 23692
+L2: sec: 0 us: 27671
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4565
+L2: sec: 0 us: 26241
+Test 4:
+MM: sec: 0 us: 6612
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6620
+L3: sec: 0 us: 22406
+Test 6:
+MM: sec: 0 us: 6620
+MM: sec: 0 us: 6618
+Test 7:
+MM: sec: 0 us: 13475
+MM: sec: 0 us: 13913
+MM: sec: 0 us: 13907
+MM: sec: 0 us: 13900
+Test 8:
+MM: sec: 0 us: 10688
+L3H: sec: 0 us: 22970
+L2: sec: 0 us: 27509
+Test 9:
+MM: sec: 0 us: 10509
+L3: sec: 0 us: 23039
+L2: sec: 0 us: 27410
+Test 1:
+MM: sec: 0 us: 4480
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4549
+L2: sec: 0 us: 26156
+Test 4:
+MM: sec: 0 us: 6612
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6627
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6735
+MM: sec: 0 us: 6734
+Test 7:
+MM: sec: 0 us: 13783
+MM: sec: 0 us: 13890
+MM: sec: 0 us: 13949
+MM: sec: 0 us: 13816
+Test 8:
+MM: sec: 0 us: 9026
+L3H: sec: 0 us: 22836
+L2: sec: 0 us: 27402
+Test 9:
+MM: sec: 0 us: 6039
+L3: sec: 0 us: 33305
+L2: sec: 0 us: 28545
+Test 1:
+MM: sec: 0 us: 4474
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4555
+L2: sec: 0 us: 26238
+Test 4:
+MM: sec: 0 us: 6615
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6624
+L3: sec: 0 us: 22386
+Test 6:
+MM: sec: 0 us: 6612
+MM: sec: 0 us: 6609
+Test 7:
+MM: sec: 0 us: 13851
+MM: sec: 0 us: 13894
+MM: sec: 0 us: 13841
+MM: sec: 0 us: 13941
+Test 8:
+MM: sec: 0 us: 5593
+L3H: sec: 0 us: 35607
+L2: sec: 0 us: 43770
+Test 9:
+MM: sec: 0 us: 5636
+L3: sec: 0 us: 35425
+L2: sec: 0 us: 36169
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4540
+L2: sec: 1 us: -973871
+Test 4:
+MM: sec: 0 us: 6618
+L3H: sec: 0 us: 22428
+Test 5:
+MM: sec: 0 us: 6625
+L3: sec: 0 us: 22390
+Test 6:
+MM: sec: 0 us: 6614
+MM: sec: 0 us: 6614
+Test 7:
+MM: sec: 0 us: 13929
+MM: sec: 0 us: 13843
+MM: sec: 0 us: 12893
+MM: sec: 0 us: 14905
+Test 8:
+MM: sec: 0 us: 12475
+L3H: sec: 0 us: 24343
+L2: sec: 0 us: 30275
+Test 9:
+MM: sec: 0 us: 9596
+L3: sec: 0 us: 22910
+L2: sec: 0 us: 35644
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4576
+L2: sec: 0 us: 27014
+Test 4:
+MM: sec: 1 us: -993379
+L3H: sec: 0 us: 22591
+Test 5:
+MM: sec: 0 us: 6618
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6663
+MM: sec: 0 us: 6663
+Test 7:
+MM: sec: 0 us: 13884
+MM: sec: 0 us: 13901
+MM: sec: 0 us: 13874
+MM: sec: 0 us: 13888
+Test 8:
+MM: sec: 0 us: 11701
+L3H: sec: 0 us: 23139
+L2: sec: 0 us: 31696
+Test 9:
+MM: sec: 0 us: 5550
+L3: sec: 1 us: -963786
+L2: sec: 0 us: 29820
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4535
+L2: sec: 0 us: 26068
+Test 4:
+MM: sec: 0 us: 6621
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6619
+L3: sec: 0 us: 22595
+Test 6:
+MM: sec: 0 us: 6624
+MM: sec: 0 us: 6622
+Test 7:
+MM: sec: 0 us: 13868
+MM: sec: 0 us: 13921
+MM: sec: 0 us: 13860
+MM: sec: 0 us: 13919
+Test 8:
+MM: sec: 0 us: 11916
+L3H: sec: 0 us: 24154
+L2: sec: 0 us: 30068
+Test 9:
+MM: sec: 0 us: 5597
+L3: sec: 0 us: 35731
+L2: sec: 0 us: 34185
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4551
+L2: sec: 0 us: 26129
+Test 4:
+MM: sec: 0 us: 6630
+L3H: sec: 0 us: 22385
+Test 5:
+MM: sec: 0 us: 6618
+L3: sec: 0 us: 22392
+Test 6:
+MM: sec: 0 us: 6611
+MM: sec: 0 us: 6609
+Test 7:
+MM: sec: 0 us: 13885
+MM: sec: 0 us: 13859
+MM: sec: 0 us: 13906
+MM: sec: 0 us: 13859
+Test 8:
+MM: sec: 0 us: 5597
+L3H: sec: 0 us: 35671
+L2: sec: 0 us: 35515
+Test 9:
+MM: sec: 0 us: 9575
+L3: sec: 0 us: 22893
+L2: sec: 0 us: 34301
+Test 1:
+MM: sec: 0 us: 4489
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4575
+L2: sec: 0 us: 26456
+Test 4:
+MM: sec: 0 us: 6626
+L3H: sec: 0 us: 22417
+Test 5:
+MM: sec: 0 us: 6620
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6624
+MM: sec: 0 us: 6625
+Test 7:
+MM: sec: 0 us: 13876
+MM: sec: 0 us: 13885
+MM: sec: 0 us: 13918
+MM: sec: 0 us: 13867
+Test 8:
+MM: sec: 0 us: 11857
+L3H: sec: 0 us: 24021
+L2: sec: 0 us: 28044
+Test 9:
+MM: sec: 0 us: 5451
+L3: sec: 0 us: 36663
+L2: sec: 0 us: 32791
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4550
+L2: sec: 0 us: 26146
+Test 4:
+MM: sec: 0 us: 6625
+L3H: sec: 0 us: 22465
+Test 5:
+MM: sec: 0 us: 6625
+L3: sec: 0 us: 22389
+Test 6:
+MM: sec: 0 us: 6623
+MM: sec: 0 us: 6622
+Test 7:
+MM: sec: 0 us: 13880
+MM: sec: 0 us: 13918
+MM: sec: 0 us: 13875
+MM: sec: 0 us: 13867
+Test 8:
+MM: sec: 0 us: 11968
+L3H: sec: 0 us: 24188
+L2: sec: 0 us: 27271
+Test 9:
+MM: sec: 0 us: 5774
+L3: sec: 0 us: 34467
+L2: sec: 0 us: 36864
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 0 us: 4480
+Test 3:
+MM: sec: 0 us: 4556
+L2: sec: 0 us: 26125
+Test 4:
+MM: sec: 0 us: 6621
+L3H: sec: 0 us: 22385
+Test 5:
+MM: sec: 0 us: 6619
+L3: sec: 0 us: 22451
+Test 6:
+MM: sec: 0 us: 6635
+MM: sec: 0 us: 6629
+Test 7:
+MM: sec: 0 us: 13849
+MM: sec: 0 us: 13933
+MM: sec: 0 us: 13875
+MM: sec: 0 us: 13837
+Test 8:
+MM: sec: 0 us: 8701
+L3H: sec: 0 us: 22961
+L2: sec: 0 us: 27297
+Test 9:
+MM: sec: 0 us: 9472
+L3: sec: 0 us: 22550
+L2: sec: 0 us: 30098
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4563
+L2: sec: 0 us: 28900
+Test 4:
+MM: sec: 0 us: 6614
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6618
+L3: sec: 0 us: 22389
+Test 6:
+MM: sec: 0 us: 6623
+MM: sec: 0 us: 6625
+Test 7:
+MM: sec: 0 us: 13839
+MM: sec: 0 us: 13838
+MM: sec: 0 us: 13797
+MM: sec: 0 us: 13955
+Test 8:
+MM: sec: 0 us: 11247
+L3H: sec: 0 us: 23056
+L2: sec: 0 us: 27689
+Test 9:
+MM: sec: 0 us: 9537
+L3: sec: 0 us: 22804
+L2: sec: 0 us: 32706
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4566
+L2: sec: 0 us: 26550
+Test 4:
+MM: sec: 0 us: 6620
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6623
+L3: sec: 0 us: 22682
+Test 6:
+MM: sec: 0 us: 6618
+MM: sec: 0 us: 6615
+Test 7:
+MM: sec: 0 us: 13865
+MM: sec: 0 us: 13893
+MM: sec: 0 us: 13930
+MM: sec: 0 us: 13825
+Test 8:
+MM: sec: 0 us: 11763
+L3H: sec: 0 us: 23960
+L2: sec: 0 us: 27956
+Test 9:
+MM: sec: 0 us: 5539
+L3: sec: 0 us: 35829
+L2: sec: 0 us: 35280
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4480
+Test 3:
+MM: sec: 0 us: 4526
+L2: sec: 0 us: 26119
+Test 4:
+MM: sec: 0 us: 6625
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6625
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6628
+MM: sec: 0 us: 6625
+Test 7:
+MM: sec: 0 us: 13836
+MM: sec: 0 us: 13902
+MM: sec: 0 us: 13893
+MM: sec: 0 us: 13884
+Test 8:
+MM: sec: 0 us: 11918
+L3H: sec: 0 us: 24179
+L2: sec: 0 us: 27915
+Test 9:
+MM: sec: 0 us: 5528
+L3: sec: 0 us: 36086
+L2: sec: 0 us: 34377
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4507
+Test 3:
+MM: sec: 0 us: 4537
+L2: sec: 0 us: 26135
+Test 4:
+MM: sec: 0 us: 6616
+L3H: sec: 0 us: 22389
+Test 5:
+MM: sec: 0 us: 6625
+L3: sec: 0 us: 22390
+Test 6:
+MM: sec: 0 us: 6612
+MM: sec: 0 us: 6609
+Test 7:
+MM: sec: 0 us: 13836
+MM: sec: 0 us: 13934
+MM: sec: 0 us: 13949
+MM: sec: 0 us: 13856
+Test 8:
+MM: sec: 0 us: 11386
+L3H: sec: 0 us: 23354
+L2: sec: 0 us: 30581
+Test 9:
+MM: sec: 0 us: 5638
+L3: sec: 0 us: 35558
+L2: sec: 0 us: 28170
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4560
+L2: sec: 0 us: 26127
+Test 4:
+MM: sec: 0 us: 6623
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6618
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6629
+MM: sec: 0 us: 6630
+Test 7:
+MM: sec: 0 us: 13918
+MM: sec: 0 us: 13855
+MM: sec: 0 us: 13993
+MM: sec: 0 us: 13884
+Test 8:
+MM: sec: 0 us: 8954
+L3H: sec: 0 us: 22931
+L2: sec: 0 us: 27622
+Test 9:
+MM: sec: 0 us: 5955
+L3: sec: 0 us: 33663
+L2: sec: 0 us: 28754
+Test 1:
+MM: sec: 0 us: 4481
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4544
+L2: sec: 0 us: 26184
+Test 4:
+MM: sec: 0 us: 6628
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6616
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6633
+MM: sec: 0 us: 6632
+Test 7:
+MM: sec: 0 us: 13858
+MM: sec: 0 us: 13885
+MM: sec: 0 us: 13844
+MM: sec: 0 us: 13877
+Test 8:
+MM: sec: 0 us: 8986
+L3H: sec: 0 us: 22831
+L2: sec: 0 us: 27338
+Test 9:
+MM: sec: 0 us: 5957
+L3: sec: 0 us: 33726
+L2: sec: 0 us: 31573
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4553
+L2: sec: 0 us: 26359
+Test 4:
+MM: sec: 0 us: 6622
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6621
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6618
+MM: sec: 0 us: 6617
+Test 7:
+MM: sec: 0 us: 13860
+MM: sec: 0 us: 13836
+MM: sec: 0 us: 13883
+MM: sec: 0 us: 13889
+Test 8:
+MM: sec: 0 us: 10491
+L3H: sec: 0 us: 22952
+L2: sec: 0 us: 27661
+Test 9:
+MM: sec: 0 us: 9733
+L3: sec: 0 us: 22954
+L2: sec: 0 us: 27438
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4548
+L2: sec: 0 us: 26261
+Test 4:
+MM: sec: 0 us: 6629
+L3H: sec: 1 us: -977618
+Test 5:
+MM: sec: 0 us: 6614
+L3: sec: 0 us: 22392
+Test 6:
+MM: sec: 0 us: 6607
+MM: sec: 0 us: 6605
+Test 7:
+MM: sec: 0 us: 13890
+MM: sec: 0 us: 13864
+MM: sec: 0 us: 13913
+MM: sec: 0 us: 13883
+Test 8:
+MM: sec: 0 us: 10776
+L3H: sec: 0 us: 23015
+L2: sec: 0 us: 28607
+Test 9:
+MM: sec: 0 us: 5643
+L3: sec: 0 us: 35354
+L2: sec: 0 us: 31578
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4693
+L2: sec: 0 us: 26425
+Test 4:
+MM: sec: 0 us: 6757
+L3H: sec: 0 us: 22729
+Test 5:
+MM: sec: 0 us: 6759
+L3: sec: 1 us: -977203
+Test 6:
+MM: sec: 0 us: 6761
+MM: sec: 0 us: 6758
+Test 7:
+MM: sec: 0 us: 14154
+MM: sec: 0 us: 14176
+MM: sec: 0 us: 14221
+MM: sec: 0 us: 14086
+Test 8:
+MM: sec: 0 us: 12355
+L3H: sec: 0 us: 24856
+L2: sec: 0 us: 28053
+Test 9:
+MM: sec: 0 us: 5556
+L3: sec: 0 us: 36449
+L2: sec: 0 us: 36182
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4555
+Test 3:
+MM: sec: 0 us: 4624
+L2: sec: 0 us: 26173
+Test 4:
+MM: sec: 0 us: 6785
+L3H: sec: 0 us: 22716
+Test 5:
+MM: sec: 0 us: 6767
+L3: sec: 0 us: 22732
+Test 6:
+MM: sec: 0 us: 6768
+MM: sec: 0 us: 6765
+Test 7:
+MM: sec: 0 us: 14114
+MM: sec: 0 us: 14167
+MM: sec: 0 us: 14157
+MM: sec: 0 us: 14166
+Test 8:
+MM: sec: 0 us: 5573
+L3H: sec: 0 us: 36718
+L2: sec: 0 us: 33807
+Test 9:
+MM: sec: 0 us: 9596
+L3: sec: 0 us: 22878
+L2: sec: 0 us: 30068
+Test 1:
+MM: sec: 0 us: 4535
+Test 2:
+MM: sec: 0 us: 4548
+Test 3:
+MM: sec: 0 us: 4638
+L2: sec: 0 us: 26871
+Test 4:
+MM: sec: 0 us: 6766
+L3H: sec: 0 us: 22718
+Test 5:
+MM: sec: 0 us: 6755
+L3: sec: 0 us: 22735
+Test 6:
+MM: sec: 0 us: 6838
+MM: sec: 0 us: 6834
+Test 7:
+MM: sec: 0 us: 14141
+MM: sec: 0 us: 14198
+MM: sec: 0 us: 14131
+MM: sec: 0 us: 14208
+Test 8:
+MM: sec: 0 us: 11901
+L3H: sec: 0 us: 23707
+L2: sec: 0 us: 32006
+Test 9:
+MM: sec: 0 us: 5673
+L3: sec: 0 us: 36049
+L2: sec: 0 us: 29207
+Test 1:
+MM: sec: 0 us: 4547
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4631
+L2: sec: 0 us: 26268
+Test 4:
+MM: sec: 0 us: 6760
+L3H: sec: 0 us: 22722
+Test 5:
+MM: sec: 0 us: 6775
+L3: sec: 0 us: 22856
+Test 6:
+MM: sec: 0 us: 6752
+MM: sec: 0 us: 6760
+Test 7:
+MM: sec: 0 us: 14148
+MM: sec: 0 us: 14141
+MM: sec: 0 us: 14119
+MM: sec: 0 us: 14168
+Test 8:
+MM: sec: 0 us: 11387
+L3H: sec: 0 us: 23446
+L2: sec: 0 us: 28006
+Test 9:
+MM: sec: 0 us: 5678
+L3: sec: 0 us: 35700
+L2: sec: 0 us: 33870
+Test 1:
+MM: sec: 0 us: 4536
+Test 2:
+MM: sec: 0 us: 4551
+Test 3:
+MM: sec: 0 us: 4617
+L2: sec: 0 us: 26234
+Test 4:
+MM: sec: 0 us: 6760
+L3H: sec: 0 us: 22718
+Test 5:
+MM: sec: 0 us: 6757
+L3: sec: 0 us: 22731
+Test 6:
+MM: sec: 0 us: 6758
+MM: sec: 0 us: 6755
+Test 7:
+MM: sec: 0 us: 14187
+MM: sec: 0 us: 14155
+MM: sec: 0 us: 14203
+MM: sec: 0 us: 14127
+Test 8:
+MM: sec: 0 us: 11061
+L3H: sec: 0 us: 23353
+L2: sec: 0 us: 30230
+Test 9:
+MM: sec: 0 us: 5777
+L3: sec: 0 us: 35361
+L2: sec: 0 us: 31680
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4594
+L2: sec: 0 us: 26157
+Test 4:
+MM: sec: 1 us: -993217
+L3H: sec: 0 us: 22743
+Test 5:
+MM: sec: 0 us: 6783
+L3: sec: 0 us: 22720
+Test 6:
+MM: sec: 0 us: 6754
+MM: sec: 0 us: 6753
+Test 7:
+MM: sec: 0 us: 14159
+MM: sec: 0 us: 14185
+MM: sec: 0 us: 14176
+MM: sec: 0 us: 14157
+Test 8:
+MM: sec: 0 us: 11961
+L3H: sec: 0 us: 23910
+L2: sec: 0 us: 29307
+Test 9:
+MM: sec: 0 us: 5654
+L3: sec: 1 us: -963934
+L2: sec: 0 us: 32514
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4543
+Test 3:
+MM: sec: 0 us: 4632
+L2: sec: 0 us: 26133
+Test 4:
+MM: sec: 0 us: 6750
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6773
+L3: sec: 0 us: 22732
+Test 6:
+MM: sec: 0 us: 6772
+MM: sec: 0 us: 6771
+Test 7:
+MM: sec: 0 us: 14195
+MM: sec: 0 us: 14113
+MM: sec: 0 us: 14151
+MM: sec: 0 us: 14151
+Test 8:
+MM: sec: 0 us: 11680
+L3H: sec: 0 us: 23647
+L2: sec: 0 us: 30802
+Test 9:
+MM: sec: 0 us: 5771
+L3: sec: 0 us: 35348
+L2: sec: 0 us: 27387
+Test 1:
+MM: sec: 0 us: 4544
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4630
+L2: sec: 0 us: 26351
+Test 4:
+MM: sec: 0 us: 6764
+L3H: sec: 0 us: 22715
+Test 5:
+MM: sec: 0 us: 6755
+L3: sec: 0 us: 22729
+Test 6:
+MM: sec: 0 us: 6772
+MM: sec: 0 us: 6770
+Test 7:
+MM: sec: 0 us: 14153
+MM: sec: 0 us: 14166
+MM: sec: 0 us: 14147
+MM: sec: 0 us: 14178
+Test 8:
+MM: sec: 0 us: 10370
+L3H: sec: 0 us: 23305
+L2: sec: 0 us: 27546
+Test 9:
+MM: sec: 0 us: 9655
+L3: sec: 0 us: 23101
+L2: sec: 0 us: 30596
+Test 1:
+MM: sec: 0 us: 4541
+Test 2:
+MM: sec: 0 us: 4543
+Test 3:
+MM: sec: 0 us: 4635
+L2: sec: 0 us: 28985
+Test 4:
+MM: sec: 0 us: 6774
+L3H: sec: 0 us: 22717
+Test 5:
+MM: sec: 0 us: 6754
+L3: sec: 0 us: 22732
+Test 6:
+MM: sec: 0 us: 6770
+MM: sec: 0 us: 6767
+Test 7:
+MM: sec: 0 us: 14146
+MM: sec: 0 us: 14161
+MM: sec: 0 us: 14153
+MM: sec: 0 us: 14185
+Test 8:
+MM: sec: 0 us: 6162
+L3H: sec: 0 us: 33427
+L2: sec: 0 us: 39507
+Test 9:
+MM: sec: 0 us: 6064
+L3: sec: 0 us: 33842
+L2: sec: 0 us: 31200
+Test 1:
+MM: sec: 0 us: 4552
+Test 2:
+MM: sec: 0 us: 4543
+Test 3:
+MM: sec: 0 us: 4590
+L2: sec: 0 us: 26050
+Test 4:
+MM: sec: 0 us: 6758
+L3H: sec: 0 us: 22723
+Test 5:
+MM: sec: 0 us: 6773
+L3: sec: 0 us: 22731
+Test 6:
+MM: sec: 0 us: 6786
+MM: sec: 0 us: 6785
+Test 7:
+MM: sec: 0 us: 14137
+MM: sec: 0 us: 14168
+MM: sec: 0 us: 14181
+MM: sec: 0 us: 14156
+Test 8:
+MM: sec: 0 us: 12740
+L3H: sec: 1 us: -975060
+L2: sec: 0 us: 30614
+Test 9:
+MM: sec: 0 us: 5516
+L3: sec: 0 us: 37040
+L2: sec: 0 us: 39018
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4556
+Test 3:
+MM: sec: 0 us: 4635
+L2: sec: 0 us: 26254
+Test 4:
+MM: sec: 0 us: 6746
+L3H: sec: 0 us: 22728
+Test 5:
+MM: sec: 0 us: 6772
+L3: sec: 0 us: 22727
+Test 6:
+MM: sec: 0 us: 6787
+MM: sec: 0 us: 6790
+Test 7:
+MM: sec: 0 us: 14181
+MM: sec: 0 us: 14158
+MM: sec: 0 us: 14162
+MM: sec: 0 us: 14153
+Test 8:
+MM: sec: 0 us: 12094
+L3H: sec: 0 us: 23935
+L2: sec: 0 us: 29554
+Test 9:
+MM: sec: 0 us: 9685
+L3: sec: 0 us: 23157
+L2: sec: 0 us: 34698
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4553
+Test 3:
+MM: sec: 0 us: 4638
+L2: sec: 0 us: 26463
+Test 4:
+MM: sec: 0 us: 6777
+L3H: sec: 0 us: 22737
+Test 5:
+MM: sec: 0 us: 6769
+L3: sec: 0 us: 22723
+Test 6:
+MM: sec: 0 us: 6762
+MM: sec: 0 us: 6761
+Test 7:
+MM: sec: 0 us: 14203
+MM: sec: 0 us: 14147
+MM: sec: 0 us: 14146
+MM: sec: 0 us: 14178
+Test 8:
+MM: sec: 0 us: 13316
+L3H: sec: 0 us: 25435
+L2: sec: 0 us: 27910
+Test 9:
+MM: sec: 0 us: 5459
+L3: sec: 0 us: 38009
+L2: sec: 0 us: 37174
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4556
+Test 3:
+MM: sec: 0 us: 4588
+L2: sec: 0 us: 26385
+Test 4:
+MM: sec: 1 us: -993233
+L3H: sec: 0 us: 22932
+Test 5:
+MM: sec: 0 us: 6774
+L3: sec: 0 us: 22887
+Test 6:
+MM: sec: 0 us: 6777
+MM: sec: 0 us: 6776
+Test 7:
+MM: sec: 0 us: 14171
+MM: sec: 0 us: 14188
+MM: sec: 0 us: 14159
+MM: sec: 0 us: 14154
+Test 8:
+MM: sec: 0 us: 5809
+L3H: sec: 0 us: 35013
+L2: sec: 0 us: 40131
+Test 9:
+MM: sec: 0 us: 5726
+L3: sec: 1 us: -964604
+L2: sec: 0 us: 32438
+Test 1:
+MM: sec: 0 us: 4544
+Test 2:
+MM: sec: 0 us: 4554
+Test 3:
+MM: sec: 0 us: 4594
+L2: sec: 0 us: 26075
+Test 4:
+MM: sec: 0 us: 6767
+L3H: sec: 0 us: 22800
+Test 5:
+MM: sec: 0 us: 6758
+L3: sec: 0 us: 22721
+Test 6:
+MM: sec: 0 us: 6789
+MM: sec: 0 us: 6784
+Test 7:
+MM: sec: 0 us: 14176
+MM: sec: 0 us: 14142
+MM: sec: 0 us: 14143
+MM: sec: 0 us: 14156
+Test 8:
+MM: sec: 0 us: 9139
+L3H: sec: 0 us: 23174
+L2: sec: 0 us: 27326
+Test 9:
+MM: sec: 0 us: 6171
+L3: sec: 0 us: 33358
+L2: sec: 0 us: 30081
+Test 1:
+MM: sec: 0 us: 4542
+Test 2:
+MM: sec: 0 us: 4544
+Test 3:
+MM: sec: 0 us: 4616
+L2: sec: 0 us: 26409
+Test 4:
+MM: sec: 0 us: 6753
+L3H: sec: 0 us: 22721
+Test 5:
+MM: sec: 0 us: 6765
+L3: sec: 0 us: 22737
+Test 6:
+MM: sec: 0 us: 6768
+MM: sec: 0 us: 6767
+Test 7:
+MM: sec: 0 us: 14151
+MM: sec: 0 us: 14166
+MM: sec: 0 us: 14164
+MM: sec: 0 us: 14184
+Test 8:
+MM: sec: 0 us: 12952
+L3H: sec: 0 us: 24989
+L2: sec: 0 us: 29969
+Test 9:
+MM: sec: 0 us: 5514
+L3: sec: 0 us: 37226
+L2: sec: 0 us: 37794
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4544
+Test 3:
+MM: sec: 0 us: 4626
+L2: sec: 0 us: 26149
+Test 4:
+MM: sec: 0 us: 6751
+L3H: sec: 0 us: 22723
+Test 5:
+MM: sec: 0 us: 6767
+L3: sec: 0 us: 22762
+Test 6:
+MM: sec: 0 us: 6752
+MM: sec: 0 us: 6751
+Test 7:
+MM: sec: 0 us: 14182
+MM: sec: 0 us: 14155
+MM: sec: 0 us: 14148
+MM: sec: 0 us: 14201
+Test 8:
+MM: sec: 0 us: 12610
+L3H: sec: 0 us: 25759
+L2: sec: 0 us: 27447
+Test 9:
+MM: sec: 0 us: 5557
+L3: sec: 0 us: 36956
+L2: sec: 0 us: 34111
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4544
+Test 3:
+MM: sec: 0 us: 4616
+L2: sec: 0 us: 26405
+Test 4:
+MM: sec: 0 us: 6754
+L3H: sec: 0 us: 22730
+Test 5:
+MM: sec: 0 us: 6774
+L3: sec: 0 us: 22734
+Test 6:
+MM: sec: 0 us: 6798
+MM: sec: 0 us: 6797
+Test 7:
+MM: sec: 0 us: 14173
+MM: sec: 0 us: 14155
+MM: sec: 0 us: 14137
+MM: sec: 0 us: 14163
+Test 8:
+MM: sec: 0 us: 6194
+L3H: sec: 1 us: -966532
+L2: sec: 0 us: 44294
+Test 9:
+MM: sec: 0 us: 6064
+L3: sec: 0 us: 33805
+L2: sec: 0 us: 37638
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4553
+Test 3:
+MM: sec: 0 us: 4621
+L2: sec: 0 us: 26189
+Test 4:
+MM: sec: 0 us: 6772
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6771
+L3: sec: 0 us: 22718
+Test 6:
+MM: sec: 0 us: 6749
+MM: sec: 0 us: 6747
+Test 7:
+MM: sec: 0 us: 14194
+MM: sec: 0 us: 14166
+MM: sec: 0 us: 14118
+MM: sec: 0 us: 14186
+Test 8:
+MM: sec: 0 us: 10684
+L3H: sec: 0 us: 23339
+L2: sec: 0 us: 28394
+Test 9:
+MM: sec: 0 us: 11219
+L3: sec: 0 us: 23333
+L2: sec: 0 us: 27814
+Test 1:
+MM: sec: 0 us: 4544
+Test 2:
+MM: sec: 0 us: 4554
+Test 3:
+MM: sec: 0 us: 4614
+L2: sec: 0 us: 26256
+Test 4:
+MM: sec: 0 us: 6768
+L3H: sec: 0 us: 22717
+Test 5:
+MM: sec: 0 us: 6759
+L3: sec: 0 us: 22727
+Test 6:
+MM: sec: 0 us: 6769
+MM: sec: 0 us: 6755
+Test 7:
+MM: sec: 0 us: 14193
+MM: sec: 0 us: 14179
+MM: sec: 0 us: 14166
+MM: sec: 0 us: 14169
+Test 8:
+MM: sec: 0 us: 12695
+L3H: sec: 0 us: 25210
+L2: sec: 0 us: 28388
+Test 9:
+MM: sec: 0 us: 5577
+L3: sec: 0 us: 36483
+L2: sec: 0 us: 34823
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4542
+Test 3:
+MM: sec: 0 us: 4620
+L2: sec: 0 us: 26191
+Test 4:
+MM: sec: 0 us: 6762
+L3H: sec: 1 us: -977274
+Test 5:
+MM: sec: 0 us: 6771
+L3: sec: 0 us: 22732
+Test 6:
+MM: sec: 0 us: 6779
+MM: sec: 0 us: 6780
+Test 7:
+MM: sec: 0 us: 14162
+MM: sec: 0 us: 14159
+MM: sec: 0 us: 14184
+MM: sec: 0 us: 14154
+Test 8:
+MM: sec: 0 us: 9230
+L3H: sec: 0 us: 23170
+L2: sec: 0 us: 27621
+Test 9:
+MM: sec: 0 us: 6158
+L3: sec: 0 us: 33406
+L2: sec: 0 us: 33427
+Test 1:
+MM: sec: 0 us: 4547
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4611
+L2: sec: 0 us: 26123
+Test 4:
+MM: sec: 0 us: 6765
+L3H: sec: 0 us: 22717
+Test 5:
+MM: sec: 0 us: 6764
+L3: sec: 1 us: -977268
+Test 6:
+MM: sec: 0 us: 6837
+MM: sec: 0 us: 6838
+Test 7:
+MM: sec: 0 us: 14148
+MM: sec: 0 us: 14198
+MM: sec: 0 us: 14170
+MM: sec: 0 us: 14162
+Test 8:
+MM: sec: 0 us: 5856
+L3H: sec: 0 us: 34705
+L2: sec: 0 us: 49456
+Test 9:
+MM: sec: 0 us: 5897
+L3: sec: 0 us: 34549
+L2: sec: 0 us: 33088
+Test 1:
+MM: sec: 0 us: 4544
+Test 2:
+MM: sec: 0 us: 4553
+Test 3:
+MM: sec: 0 us: 4620
+L2: sec: 0 us: 26154
+Test 4:
+MM: sec: 0 us: 6761
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6775
+L3: sec: 0 us: 22724
+Test 6:
+MM: sec: 0 us: 6739
+MM: sec: 0 us: 6740
+Test 7:
+MM: sec: 0 us: 14148
+MM: sec: 0 us: 14144
+MM: sec: 0 us: 14130
+MM: sec: 0 us: 14147
+Test 8:
+MM: sec: 0 us: 12100
+L3H: sec: 0 us: 24217
+L2: sec: 0 us: 28511
+Test 9:
+MM: sec: 0 us: 5682
+L3: sec: 0 us: 35865
+L2: sec: 0 us: 32178
+Test 1:
+MM: sec: 0 us: 4536
+Test 2:
+MM: sec: 0 us: 4542
+Test 3:
+MM: sec: 0 us: 4609
+L2: sec: 0 us: 26146
+Test 4:
+MM: sec: 0 us: 6760
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6771
+L3: sec: 0 us: 22730
+Test 6:
+MM: sec: 0 us: 6761
+MM: sec: 0 us: 6763
+Test 7:
+MM: sec: 0 us: 14151
+MM: sec: 0 us: 14329
+MM: sec: 0 us: 14121
+MM: sec: 0 us: 14222
+Test 8:
+MM: sec: 0 us: 12242
+L3H: sec: 0 us: 24625
+L2: sec: 0 us: 28669
+Test 9:
+MM: sec: 0 us: 5618
+L3: sec: 0 us: 36713
+L2: sec: 0 us: 32265
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4551
+Test 3:
+MM: sec: 0 us: 4610
+L2: sec: 0 us: 26240
+Test 4:
+MM: sec: 0 us: 6769
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6777
+L3: sec: 0 us: 22722
+Test 6:
+MM: sec: 0 us: 6759
+MM: sec: 0 us: 6758
+Test 7:
+MM: sec: 0 us: 14175
+MM: sec: 0 us: 14156
+MM: sec: 0 us: 14141
+MM: sec: 0 us: 14206
+Test 8:
+MM: sec: 0 us: 11485
+L3H: sec: 0 us: 24683
+L2: sec: 0 us: 29790
+Test 9:
+MM: sec: 0 us: 5634
+L3: sec: 0 us: 36100
+L2: sec: 0 us: 33261
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4541
+Test 3:
+MM: sec: 0 us: 4614
+L2: sec: 1 us: -973860
+Test 4:
+MM: sec: 0 us: 6753
+L3H: sec: 0 us: 22728
+Test 5:
+MM: sec: 0 us: 6775
+L3: sec: 0 us: 22733
+Test 6:
+MM: sec: 0 us: 6806
+MM: sec: 0 us: 6804
+Test 7:
+MM: sec: 0 us: 14185
+MM: sec: 0 us: 14178
+MM: sec: 0 us: 13134
+MM: sec: 0 us: 15201
+Test 8:
+MM: sec: 0 us: 12239
+L3H: sec: 0 us: 23969
+L2: sec: 0 us: 27767
+Test 9:
+MM: sec: 0 us: 5628
+L3: sec: 0 us: 36474
+L2: sec: 0 us: 29638
+Test 1:
+MM: sec: 0 us: 4547
+Test 2:
+MM: sec: 0 us: 4554
+Test 3:
+MM: sec: 0 us: 4603
+L2: sec: 0 us: 26161
+Test 4:
+MM: sec: 0 us: 6762
+L3H: sec: 0 us: 22721
+Test 5:
+MM: sec: 0 us: 6760
+L3: sec: 0 us: 22722
+Test 6:
+MM: sec: 0 us: 6775
+MM: sec: 0 us: 6762
+Test 7:
+MM: sec: 0 us: 14159
+MM: sec: 0 us: 14169
+MM: sec: 0 us: 14162
+MM: sec: 0 us: 14166
+Test 8:
+MM: sec: 0 us: 5873
+L3H: sec: 0 us: 23366
+L2: sec: 0 us: 31468
+Test 9:
+MM: sec: 0 us: 5755
+L3: sec: 0 us: 35376
+L2: sec: 0 us: 31164
+Test 1:
+MM: sec: 0 us: 4547
+Test 2:
+MM: sec: 0 us: 4546
+Test 3:
+MM: sec: 0 us: 4609
+L2: sec: 0 us: 26253
+Test 4:
+MM: sec: 0 us: 6760
+L3H: sec: 0 us: 22897
+Test 5:
+MM: sec: 0 us: 6768
+L3: sec: 0 us: 22730
+Test 6:
+MM: sec: 0 us: 6767
+MM: sec: 0 us: 6763
+Test 7:
+MM: sec: 0 us: 14165
+MM: sec: 0 us: 14179
+MM: sec: 0 us: 14139
+MM: sec: 0 us: 14168
+Test 8:
+MM: sec: 0 us: 10522
+L3H: sec: 0 us: 23331
+L2: sec: 0 us: 27545
+Test 9:
+MM: sec: 0 us: 5836
+L3: sec: 0 us: 34815
+L2: sec: 0 us: 33202
+Test 1:
+MM: sec: 0 us: 4544
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4607
+L2: sec: 0 us: 26183
+Test 4:
+MM: sec: 0 us: 6822
+L3H: sec: 0 us: 22714
+Test 5:
+MM: sec: 0 us: 6749
+L3: sec: 0 us: 22900
+Test 6:
+MM: sec: 1 us: -993182
+MM: sec: 1 us: -993181
+Test 7:
+MM: sec: 0 us: 14139
+MM: sec: 0 us: 14235
+MM: sec: 0 us: 14177
+MM: sec: 0 us: 14155
+Test 8:
+MM: sec: 0 us: 11880
+L3H: sec: 0 us: 24120
+L2: sec: 0 us: 29015
+Test 9:
+MM: sec: 0 us: 8866
+L3: sec: 0 us: 23153
+L2: sec: 0 us: 27418
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4629
+L2: sec: 0 us: 26125
+Test 4:
+MM: sec: 0 us: 6751
+L3H: sec: 0 us: 22741
+Test 5:
+MM: sec: 0 us: 6768
+L3: sec: 0 us: 22731
+Test 6:
+MM: sec: 0 us: 6752
+MM: sec: 0 us: 6750
+Test 7:
+MM: sec: 0 us: 14120
+MM: sec: 0 us: 14164
+MM: sec: 0 us: 14165
+MM: sec: 0 us: 14155
+Test 8:
+MM: sec: 0 us: 11435
+L3H: sec: 0 us: 23441
+L2: sec: 0 us: 30399
+Test 9:
+MM: sec: 0 us: 11599
+L3: sec: 0 us: 23377
+L2: sec: 0 us: 29195
+Test 1:
+MM: sec: 0 us: 4565
+Test 2:
+MM: sec: 0 us: 4554
+Test 3:
+MM: sec: 0 us: 4608
+L2: sec: 0 us: 26192
+Test 4:
+MM: sec: 0 us: 6760
+L3H: sec: 0 us: 22732
+Test 5:
+MM: sec: 0 us: 6741
+L3: sec: 0 us: 22732
+Test 6:
+MM: sec: 0 us: 6757
+MM: sec: 0 us: 6750
+Test 7:
+MM: sec: 0 us: 14149
+MM: sec: 0 us: 14160
+MM: sec: 0 us: 14155
+MM: sec: 0 us: 14160
+Test 8:
+MM: sec: 0 us: 12772
+L3H: sec: 0 us: 25184
+L2: sec: 1 us: -970380
+Test 9:
+MM: sec: 0 us: 5484
+L3: sec: 0 us: 37616
+L2: sec: 0 us: 36728
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4545
+Test 3:
+MM: sec: 0 us: 4625
+L2: sec: 0 us: 26386
+Test 4:
+MM: sec: 0 us: 6760
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6769
+L3: sec: 0 us: 22732
+Test 6:
+MM: sec: 0 us: 6808
+MM: sec: 0 us: 6817
+Test 7:
+MM: sec: 0 us: 14116
+MM: sec: 0 us: 14194
+MM: sec: 0 us: 14155
+MM: sec: 0 us: 14139
+Test 8:
+MM: sec: 0 us: 5748
+L3H: sec: 0 us: 35183
+L2: sec: 0 us: 41604
+Test 9:
+MM: sec: 0 us: 6675
+L3: sec: 0 us: 35424
+L2: sec: 0 us: 33495
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4551
+Test 3:
+MM: sec: 0 us: 4620
+L2: sec: 0 us: 26156
+Test 4:
+MM: sec: 0 us: 6757
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6768
+L3: sec: 0 us: 22729
+Test 6:
+MM: sec: 0 us: 6768
+MM: sec: 0 us: 6778
+Test 7:
+MM: sec: 0 us: 14107
+MM: sec: 0 us: 14161
+MM: sec: 0 us: 14144
+MM: sec: 0 us: 14152
+Test 8:
+MM: sec: 0 us: 11406
+L3H: sec: 0 us: 23369
+L2: sec: 0 us: 28153
+Test 9:
+MM: sec: 0 us: 5829
+L3: sec: 0 us: 34950
+L2: sec: 0 us: 32184
+Test 1:
+MM: sec: 0 us: 4542
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4609
+L2: sec: 0 us: 26304
+Test 4:
+MM: sec: 0 us: 6775
+L3H: sec: 0 us: 22735
+Test 5:
+MM: sec: 0 us: 6763
+L3: sec: 0 us: 22720
+Test 6:
+MM: sec: 0 us: 6779
+MM: sec: 0 us: 6777
+Test 7:
+MM: sec: 0 us: 14211
+MM: sec: 0 us: 14120
+MM: sec: 0 us: 14159
+MM: sec: 0 us: 14159
+Test 8:
+MM: sec: 0 us: 5785
+L3H: sec: 0 us: 35235
+L2: sec: 0 us: 41711
+Test 9:
+MM: sec: 0 us: 9681
+L3: sec: 0 us: 23125
+L2: sec: 0 us: 38768
+Test 1:
+MM: sec: 0 us: 4534
+Test 2:
+MM: sec: 0 us: 4544
+Test 3:
+MM: sec: 0 us: 4636
+L2: sec: 0 us: 28997
+Test 4:
+MM: sec: 0 us: 6758
+L3H: sec: 0 us: 22718
+Test 5:
+MM: sec: 0 us: 6759
+L3: sec: 1 us: -977269
+Test 6:
+MM: sec: 0 us: 6761
+MM: sec: 0 us: 6763
+Test 7:
+MM: sec: 0 us: 14182
+MM: sec: 0 us: 14193
+MM: sec: 0 us: 14210
+MM: sec: 0 us: 14159
+Test 8:
+MM: sec: 0 us: 12964
+L3H: sec: 0 us: 25530
+L2: sec: 0 us: 28862
+Test 9:
+MM: sec: 0 us: 5580
+L3: sec: 0 us: 36408
+L2: sec: 0 us: 35591
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4542
+Test 3:
+MM: sec: 0 us: 4621
+L2: sec: 0 us: 26069
+Test 4:
+MM: sec: 0 us: 6751
+L3H: sec: 0 us: 22728
+Test 5:
+MM: sec: 0 us: 6768
+L3: sec: 0 us: 22730
+Test 6:
+MM: sec: 0 us: 6791
+MM: sec: 0 us: 6791
+Test 7:
+MM: sec: 0 us: 14163
+MM: sec: 0 us: 14152
+MM: sec: 0 us: 14172
+MM: sec: 0 us: 14162
+Test 8:
+MM: sec: 0 us: 11423
+L3H: sec: 0 us: 23409
+L2: sec: 0 us: 30825
+Test 9:
+MM: sec: 0 us: 5714
+L3: sec: 0 us: 35754
+L2: sec: 0 us: 33340
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4553
+Test 3:
+MM: sec: 0 us: 4630
+L2: sec: 0 us: 26272
+Test 4:
+MM: sec: 0 us: 6764
+L3H: sec: 0 us: 22725
+Test 5:
+MM: sec: 0 us: 6766
+L3: sec: 0 us: 22734
+Test 6:
+MM: sec: 0 us: 6808
+MM: sec: 0 us: 6806
+Test 7:
+MM: sec: 0 us: 14011
+MM: sec: 0 us: 14207
+MM: sec: 0 us: 14150
+MM: sec: 0 us: 14164
+Test 8:
+MM: sec: 0 us: 10867
+L3H: sec: 0 us: 23321
+L2: sec: 0 us: 27656
+Test 9:
+MM: sec: 0 us: 5835
+L3: sec: 0 us: 34720
+L2: sec: 0 us: 30156
+Test 1:
+MM: sec: 0 us: 4539
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4629
+L2: sec: 0 us: 26236
+Test 4:
+MM: sec: 0 us: 6770
+L3H: sec: 0 us: 22717
+Test 5:
+MM: sec: 0 us: 6755
+L3: sec: 0 us: 22733
+Test 6:
+MM: sec: 0 us: 6748
+MM: sec: 0 us: 6748
+Test 7:
+MM: sec: 0 us: 14199
+MM: sec: 0 us: 14124
+MM: sec: 0 us: 14160
+MM: sec: 0 us: 14124
+Test 8:
+MM: sec: 0 us: 11052
+L3H: sec: 0 us: 23404
+L2: sec: 0 us: 29260
+Test 9:
+MM: sec: 0 us: 11319
+L3: sec: 0 us: 23395
+L2: sec: 0 us: 29162
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4553
+Test 3:
+MM: sec: 0 us: 4611
+L2: sec: 1 us: -973863
+Test 4:
+MM: sec: 0 us: 6752
+L3H: sec: 0 us: 22727
+Test 5:
+MM: sec: 0 us: 6774
+L3: sec: 0 us: 22723
+Test 6:
+MM: sec: 0 us: 6697
+MM: sec: 0 us: 6842
+Test 7:
+MM: sec: 0 us: 14147
+MM: sec: 0 us: 14147
+MM: sec: 0 us: 13169
+MM: sec: 0 us: 15179
+Test 8:
+MM: sec: 0 us: 5780
+L3H: sec: 0 us: 35154
+L2: sec: 0 us: 40407
+Test 9:
+MM: sec: 0 us: 5736
+L3: sec: 0 us: 35372
+L2: sec: 0 us: 31621
+Test 1:
+MM: sec: 0 us: 4534
+Test 2:
+MM: sec: 0 us: 4552
+Test 3:
+MM: sec: 0 us: 4601
+L2: sec: 0 us: 26138
+Test 4:
+MM: sec: 0 us: 6768
+L3H: sec: 0 us: 22715
+Test 5:
+MM: sec: 0 us: 6752
+L3: sec: 0 us: 22733
+Test 6:
+MM: sec: 0 us: 6784
+MM: sec: 0 us: 6783
+Test 7:
+MM: sec: 0 us: 14145
+MM: sec: 0 us: 14194
+MM: sec: 0 us: 14179
+MM: sec: 0 us: 14177
+Test 8:
+MM: sec: 0 us: 11532
+L3H: sec: 0 us: 23382
+L2: sec: 0 us: 27973
+Test 9:
+MM: sec: 0 us: 5727
+L3: sec: 0 us: 35556
+L2: sec: 0 us: 32129
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4554
+Test 3:
+MM: sec: 0 us: 4608
+L2: sec: 0 us: 26239
+Test 4:
+MM: sec: 0 us: 6770
+L3H: sec: 0 us: 22894
+Test 5:
+MM: sec: 0 us: 6767
+L3: sec: 0 us: 22738
+Test 6:
+MM: sec: 0 us: 6749
+MM: sec: 0 us: 6746
+Test 7:
+MM: sec: 0 us: 14151
+MM: sec: 0 us: 14160
+MM: sec: 0 us: 14155
+MM: sec: 0 us: 14189
+Test 8:
+MM: sec: 0 us: 9702
+L3H: sec: 0 us: 23249
+L2: sec: 0 us: 34258
+Test 9:
+MM: sec: 0 us: 5670
+L3: sec: 0 us: 35916
+L2: sec: 0 us: 36661
+Test 1:
+MM: sec: 0 us: 4545
+Test 2:
+MM: sec: 0 us: 4544
+Test 3:
+MM: sec: 0 us: 4620
+L2: sec: 0 us: 26258
+Test 4:
+MM: sec: 0 us: 6755
+L3H: sec: 0 us: 22728
+Test 5:
+MM: sec: 0 us: 6770
+L3: sec: 0 us: 22730
+Test 6:
+MM: sec: 0 us: 6752
+MM: sec: 0 us: 6755
+Test 7:
+MM: sec: 0 us: 14176
+MM: sec: 0 us: 14110
+MM: sec: 0 us: 14119
+MM: sec: 0 us: 14212
+Test 8:
+MM: sec: 0 us: 5552
+L3H: sec: 0 us: 36906
+L2: sec: 0 us: 35828
+Test 9:
+MM: sec: 0 us: 5577
+L3: sec: 0 us: 36802
+L2: sec: 0 us: 31640
+Test 1:
+MM: sec: 0 us: 4544
+Test 2:
+MM: sec: 0 us: 4554
+Test 3:
+MM: sec: 0 us: 4600
+L2: sec: 0 us: 26092
+Test 4:
+MM: sec: 0 us: 6767
+L3H: sec: 0 us: 22727
+Test 5:
+MM: sec: 0 us: 6766
+L3: sec: 0 us: 22721
+Test 6:
+MM: sec: 0 us: 6746
+MM: sec: 0 us: 6743
+Test 7:
+MM: sec: 0 us: 14156
+MM: sec: 0 us: 14168
+MM: sec: 0 us: 14146
+MM: sec: 0 us: 14168
+Test 8:
+MM: sec: 0 us: 13248
+L3H: sec: 0 us: 26062
+L2: sec: 0 us: 28949
+Test 9:
+MM: sec: 0 us: 5550
+L3: sec: 0 us: 36756
+L2: sec: 0 us: 34049
+Test 1:
+MM: sec: 0 us: 4542
+Test 2:
+MM: sec: 0 us: 4542
+Test 3:
+MM: sec: 0 us: 4616
+L2: sec: 0 us: 26174
+Test 4:
+MM: sec: 0 us: 6747
+L3H: sec: 0 us: 22725
+Test 5:
+MM: sec: 0 us: 6771
+L3: sec: 0 us: 22734
+Test 6:
+MM: sec: 0 us: 6770
+MM: sec: 0 us: 6767
+Test 7:
+MM: sec: 0 us: 14169
+MM: sec: 0 us: 14153
+MM: sec: 0 us: 14150
+MM: sec: 0 us: 14164
+Test 8:
+MM: sec: 0 us: 5704
+L3H: sec: 1 us: -964339
+L2: sec: 0 us: 50598
+Test 9:
+MM: sec: 0 us: 6061
+L3: sec: 0 us: 33757
+L2: sec: 0 us: 37906
+Test 1:
+MM: sec: 0 us: 4546
+Test 2:
+MM: sec: 0 us: 4551
+Test 3:
+MM: sec: 1 us: -995398
+L2: sec: 0 us: 26135
+Test 4:
+MM: sec: 0 us: 6753
+L3H: sec: 0 us: 22726
+Test 5:
+MM: sec: 0 us: 6780
+L3: sec: 0 us: 22733
+Test 6:
+MM: sec: 0 us: 6774
+MM: sec: 0 us: 6773
+Test 7:
+MM: sec: 0 us: 14189
+MM: sec: 0 us: 14142
+MM: sec: 0 us: 14115
+MM: sec: 0 us: 14214
+Test 8:
+MM: sec: 0 us: 11174
+L3H: sec: 0 us: 23371
+L2: sec: 0 us: 27651
+Test 9:
+MM: sec: 0 us: 5680
+L3: sec: 0 us: 35668
+L2: sec: 0 us: 31735
+Test 1:
+MM: sec: 0 us: 4533
+Test 2:
+MM: sec: 0 us: 4555
+Test 3:
+MM: sec: 0 us: 4628
+L2: sec: 0 us: 26245
+Test 4:
+MM: sec: 0 us: 6768
+L3H: sec: 0 us: 22716
+Test 5:
+MM: sec: 0 us: 6769
+L3: sec: 0 us: 22732
+Test 6:
+MM: sec: 0 us: 6760
+MM: sec: 0 us: 6759
+Test 7:
+MM: sec: 0 us: 14132
+MM: sec: 0 us: 14189
+MM: sec: 0 us: 14152
+MM: sec: 0 us: 14168
+Test 8:
+MM: sec: 0 us: 5454
+L3H: sec: 0 us: 37828
+L2: sec: 0 us: 44411
+Test 9:
+MM: sec: 0 us: 5469
+L3: sec: 0 us: 37202
+L2: sec: 0 us: 32606
+Test 1:
+MM: sec: 0 us: 4544
+Test 2:
+MM: sec: 0 us: 4555
+Test 3:
+MM: sec: 0 us: 4595
+L2: sec: 0 us: 26164
+Test 4:
+MM: sec: 0 us: 6774
+L3H: sec: 0 us: 22820
+Test 5:
+MM: sec: 0 us: 6777
+L3: sec: 0 us: 22722
+Test 6:
+MM: sec: 0 us: 6745
+MM: sec: 0 us: 6744
+Test 7:
+MM: sec: 0 us: 14163
+MM: sec: 0 us: 14187
+MM: sec: 0 us: 14154
+MM: sec: 0 us: 14156
+Test 8:
+MM: sec: 0 us: 13791
+L3H: sec: 0 us: 26311
+L2: sec: 0 us: 27797
+Test 9:
+MM: sec: 0 us: 5437
+L3: sec: 0 us: 37897
+L2: sec: 0 us: 34072
+Test 1:
+MM: sec: 0 us: 4536
+Test 2:
+MM: sec: 0 us: 4554
+Test 3:
+MM: sec: 0 us: 4546
+L2: sec: 0 us: 26169
+Test 4:
+MM: sec: 0 us: 6625
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6617
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6682
+MM: sec: 0 us: 6685
+Test 7:
+MM: sec: 0 us: 13885
+MM: sec: 0 us: 13923
+MM: sec: 0 us: 13862
+MM: sec: 0 us: 13887
+Test 8:
+MM: sec: 0 us: 10994
+L3H: sec: 0 us: 23072
+L2: sec: 0 us: 30505
+Test 9:
+MM: sec: 0 us: 5649
+L3: sec: 0 us: 35346
+L2: sec: 0 us: 32348
+Test 1:
+MM: sec: 0 us: 4479
+Test 2:
+MM: sec: 1 us: -995515
+Test 3:
+MM: sec: 0 us: 4554
+L2: sec: 0 us: 26233
+Test 4:
+MM: sec: 0 us: 6619
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6618
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6647
+MM: sec: 0 us: 6642
+Test 7:
+MM: sec: 0 us: 13848
+MM: sec: 0 us: 13899
+MM: sec: 0 us: 13883
+MM: sec: 0 us: 13865
+Test 8:
+MM: sec: 0 us: 6050
+L3H: sec: 0 us: 33258
+L2: sec: 0 us: 44598
+Test 9:
+MM: sec: 0 us: 5949
+L3: sec: 0 us: 33689
+L2: sec: 0 us: 28663
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4559
+L2: sec: 0 us: 26188
+Test 4:
+MM: sec: 0 us: 6619
+L3H: sec: 0 us: 22461
+Test 5:
+MM: sec: 0 us: 6628
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6629
+MM: sec: 0 us: 6623
+Test 7:
+MM: sec: 0 us: 13899
+MM: sec: 0 us: 13916
+MM: sec: 0 us: 13935
+MM: sec: 0 us: 13858
+Test 8:
+MM: sec: 0 us: 12115
+L3H: sec: 0 us: 24384
+L2: sec: 0 us: 29732
+Test 9:
+MM: sec: 0 us: 5562
+L3: sec: 0 us: 35890
+L2: sec: 0 us: 32027
+Test 1:
+MM: sec: 0 us: 4480
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4558
+L2: sec: 0 us: 26223
+Test 4:
+MM: sec: 0 us: 6620
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6620
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6616
+MM: sec: 0 us: 6686
+Test 7:
+MM: sec: 0 us: 13850
+MM: sec: 0 us: 13933
+MM: sec: 0 us: 13881
+MM: sec: 0 us: 13922
+Test 8:
+MM: sec: 0 us: 10833
+L3H: sec: 0 us: 23035
+L2: sec: 0 us: 29865
+Test 9:
+MM: sec: 0 us: 9542
+L3: sec: 0 us: 22878
+L2: sec: 0 us: 35982
+Test 1:
+MM: sec: 0 us: 4480
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4559
+L2: sec: 0 us: 26661
+Test 4:
+MM: sec: 0 us: 6615
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6620
+L3: sec: 0 us: 22390
+Test 6:
+MM: sec: 0 us: 6674
+MM: sec: 0 us: 6675
+Test 7:
+MM: sec: 0 us: 13863
+MM: sec: 0 us: 13875
+MM: sec: 0 us: 13887
+MM: sec: 0 us: 13863
+Test 8:
+MM: sec: 0 us: 12218
+L3H: sec: 0 us: 23763
+L2: sec: 0 us: 27351
+Test 9:
+MM: sec: 0 us: 5498
+L3: sec: 0 us: 36603
+L2: sec: 0 us: 31739
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4558
+L2: sec: 0 us: 26201
+Test 4:
+MM: sec: 0 us: 6617
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6616
+L3: sec: 0 us: 22472
+Test 6:
+MM: sec: 0 us: 6606
+MM: sec: 0 us: 6606
+Test 7:
+MM: sec: 0 us: 13868
+MM: sec: 0 us: 13869
+MM: sec: 0 us: 13941
+MM: sec: 0 us: 13799
+Test 8:
+MM: sec: 0 us: 11436
+L3H: sec: 0 us: 23748
+L2: sec: 0 us: 28331
+Test 9:
+MM: sec: 0 us: 5624
+L3: sec: 0 us: 35512
+L2: sec: 0 us: 33180
+Test 1:
+MM: sec: 0 us: 4645
+Test 2:
+MM: sec: 0 us: 4501
+Test 3:
+MM: sec: 0 us: 4543
+L2: sec: 0 us: 26167
+Test 4:
+MM: sec: 0 us: 6618
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6616
+L3: sec: 1 us: -977364
+Test 6:
+MM: sec: 0 us: 6642
+MM: sec: 0 us: 6642
+Test 7:
+MM: sec: 0 us: 13939
+MM: sec: 0 us: 13883
+MM: sec: 0 us: 13920
+MM: sec: 0 us: 13879
+Test 8:
+MM: sec: 0 us: 10998
+L3H: sec: 0 us: 23128
+L2: sec: 0 us: 27627
+Test 9:
+MM: sec: 0 us: 5582
+L3: sec: 0 us: 35618
+L2: sec: 0 us: 33168
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4547
+L2: sec: 0 us: 26177
+Test 4:
+MM: sec: 0 us: 6618
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6653
+L3: sec: 0 us: 22380
+Test 6:
+MM: sec: 0 us: 6636
+MM: sec: 0 us: 6630
+Test 7:
+MM: sec: 1 us: -986127
+MM: sec: 0 us: 13847
+MM: sec: 0 us: 13832
+MM: sec: 0 us: 13927
+Test 8:
+MM: sec: 0 us: 12396
+L3H: sec: 0 us: 24915
+L2: sec: 0 us: 27962
+Test 9:
+MM: sec: 0 us: 5456
+L3: sec: 0 us: 36405
+L2: sec: 0 us: 32398
+Test 1:
+MM: sec: 0 us: 4476
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4537
+L2: sec: 0 us: 26070
+Test 4:
+MM: sec: 0 us: 6619
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6633
+L3: sec: 0 us: 22386
+Test 6:
+MM: sec: 0 us: 6635
+MM: sec: 0 us: 6636
+Test 7:
+MM: sec: 0 us: 13875
+MM: sec: 0 us: 13864
+MM: sec: 0 us: 13920
+MM: sec: 0 us: 13788
+Test 8:
+MM: sec: 0 us: 12250
+L3H: sec: 0 us: 23922
+L2: sec: 0 us: 30504
+Test 9:
+MM: sec: 0 us: 5445
+L3: sec: 0 us: 36558
+L2: sec: 0 us: 34556
+Test 1:
+MM: sec: 0 us: 4481
+Test 2:
+MM: sec: 0 us: 4484
+Test 3:
+MM: sec: 0 us: 4555
+L2: sec: 0 us: 26101
+Test 4:
+MM: sec: 0 us: 6620
+L3H: sec: 0 us: 22380
+Test 5:
+MM: sec: 0 us: 6619
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6621
+MM: sec: 0 us: 6619
+Test 7:
+MM: sec: 0 us: 13786
+MM: sec: 0 us: 13987
+MM: sec: 0 us: 13904
+MM: sec: 0 us: 13868
+Test 8:
+MM: sec: 0 us: 11453
+L3H: sec: 0 us: 23461
+L2: sec: 0 us: 30173
+Test 9:
+MM: sec: 0 us: 5935
+L3: sec: 0 us: 33731
+L2: sec: 0 us: 37773
+Test 1:
+MM: sec: 0 us: 4478
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4550
+L2: sec: 0 us: 26226
+Test 4:
+MM: sec: 0 us: 6612
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6625
+L3: sec: 0 us: 22388
+Test 6:
+MM: sec: 0 us: 6629
+MM: sec: 0 us: 6628
+Test 7:
+MM: sec: 0 us: 13854
+MM: sec: 0 us: 13887
+MM: sec: 0 us: 13912
+MM: sec: 0 us: 13880
+Test 8:
+MM: sec: 0 us: 9052
+L3H: sec: 0 us: 22837
+L2: sec: 0 us: 27411
+Test 9:
+MM: sec: 0 us: 6033
+L3: sec: 0 us: 33024
+L2: sec: 0 us: 30236
+Test 1:
+MM: sec: 0 us: 4482
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4555
+L2: sec: 0 us: 26153
+Test 4:
+MM: sec: 0 us: 6624
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6620
+L3: sec: 0 us: 22387
+Test 6:
+MM: sec: 0 us: 6619
+MM: sec: 0 us: 6617
+Test 7:
+MM: sec: 0 us: 13842
+MM: sec: 0 us: 13935
+MM: sec: 0 us: 13877
+MM: sec: 0 us: 13907
+Test 8:
+MM: sec: 0 us: 11080
+L3H: sec: 0 us: 23028
+L2: sec: 0 us: 31100
+Test 9:
+MM: sec: 0 us: 5613
+L3: sec: 0 us: 35624
+L2: sec: 0 us: 32359
+Test 1:
+MM: sec: 0 us: 4475
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4544
+L2: sec: 0 us: 26210
+Test 4:
+MM: sec: 0 us: 6619
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6610
+L3: sec: 0 us: 22386
+Test 6:
+MM: sec: 0 us: 6632
+MM: sec: 0 us: 6629
+Test 7:
+MM: sec: 0 us: 13889
+MM: sec: 0 us: 13842
+MM: sec: 0 us: 13882
+MM: sec: 0 us: 13887
+Test 8:
+MM: sec: 0 us: 11426
+L3H: sec: 0 us: 23434
+L2: sec: 0 us: 28014
+Test 9:
+MM: sec: 0 us: 5605
+L3: sec: 0 us: 35580
+L2: sec: 0 us: 32203
+Test 1:
+MM: sec: 0 us: 4483
+Test 2:
+MM: sec: 0 us: 4480
+Test 3:
+MM: sec: 0 us: 4556
+L2: sec: 0 us: 26309
+Test 4:
+MM: sec: 0 us: 6616
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6618
+L3: sec: 0 us: 22386
+Test 6:
+MM: sec: 0 us: 6652
+MM: sec: 0 us: 6641
+Test 7:
+MM: sec: 1 us: -986087
+MM: sec: 1 us: -986111
+MM: sec: 1 us: -986162
+MM: sec: 1 us: -986105
+Test 8:
+MM: sec: 0 us: 5483
+L3H: sec: 0 us: 36457
+L2: sec: 0 us: 45867
+Test 9:
+MM: sec: 0 us: 9587
+L3: sec: 0 us: 22841
+L2: sec: 0 us: 42403
+Test 1:
+MM: sec: 0 us: 4476
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4535
+L2: sec: 0 us: 26201
+Test 4:
+MM: sec: 0 us: 6624
+L3H: sec: 0 us: 22386
+Test 5:
+MM: sec: 0 us: 6624
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6615
+MM: sec: 0 us: 6613
+Test 7:
+MM: sec: 0 us: 13868
+MM: sec: 0 us: 13862
+MM: sec: 0 us: 13868
+MM: sec: 0 us: 13895
+Test 8:
+MM: sec: 0 us: 11220
+L3H: sec: 1 us: -976871
+L2: sec: 0 us: 29468
+Test 9:
+MM: sec: 0 us: 5638
+L3: sec: 0 us: 35333
+L2: sec: 0 us: 31812
+Test 1:
+MM: sec: 0 us: 4476
+Test 2:
+MM: sec: 0 us: 4482
+Test 3:
+MM: sec: 0 us: 4550
+L2: sec: 0 us: 26363
+Test 4:
+MM: sec: 0 us: 6627
+L3H: sec: 0 us: 22388
+Test 5:
+MM: sec: 0 us: 6624
+L3: sec: 0 us: 22390
+Test 6:
+MM: sec: 0 us: 6612
+MM: sec: 0 us: 6609
+Test 7:
+MM: sec: 0 us: 13839
+MM: sec: 0 us: 13905
+MM: sec: 0 us: 13898
+MM: sec: 0 us: 13865
+Test 8:
+MM: sec: 0 us: 11770
+L3H: sec: 0 us: 24134
+L2: sec: 0 us: 29760
+Test 9:
+MM: sec: 0 us: 9523
+L3: sec: 0 us: 22902
+L2: sec: 0 us: 27441
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4480
+Test 3:
+MM: sec: 0 us: 4559
+L2: sec: 0 us: 26152
+Test 4:
+MM: sec: 0 us: 6615
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6611
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6623
+MM: sec: 0 us: 6623
+Test 7:
+MM: sec: 0 us: 13852
+MM: sec: 0 us: 13876
+MM: sec: 0 us: 13834
+MM: sec: 0 us: 13950
+Test 8:
+MM: sec: 0 us: 10189
+L3H: sec: 0 us: 22966
+L2: sec: 0 us: 27554
+Test 9:
+MM: sec: 0 us: 5718
+L3: sec: 0 us: 34491
+L2: sec: 0 us: 31968
+Test 1:
+MM: sec: 0 us: 4481
+Test 2:
+MM: sec: 0 us: 4486
+Test 3:
+MM: sec: 0 us: 4559
+L2: sec: 0 us: 26165
+Test 4:
+MM: sec: 0 us: 6616
+L3H: sec: 0 us: 22382
+Test 5:
+MM: sec: 0 us: 6612
+L3: sec: 0 us: 22386
+Test 6:
+MM: sec: 0 us: 6634
+MM: sec: 0 us: 6633
+Test 7:
+MM: sec: 0 us: 13880
+MM: sec: 0 us: 13928
+MM: sec: 0 us: 13816
+MM: sec: 0 us: 13888
+Test 8:
+MM: sec: 0 us: 10550
+L3H: sec: 0 us: 23002
+L2: sec: 0 us: 28013
+Test 9:
+MM: sec: 0 us: 5649
+L3: sec: 0 us: 35158
+L2: sec: 0 us: 33516
+Test 1:
+MM: sec: 0 us: 4476
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4543
+L2: sec: 0 us: 26170
+Test 4:
+MM: sec: 0 us: 6613
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6615
+L3: sec: 1 us: -977612
+Test 6:
+MM: sec: 0 us: 6675
+MM: sec: 0 us: 6687
+Test 7:
+MM: sec: 0 us: 13854
+MM: sec: 0 us: 13924
+MM: sec: 0 us: 13867
+MM: sec: 0 us: 13917
+Test 8:
+MM: sec: 0 us: 9599
+L3H: sec: 0 us: 22904
+L2: sec: 0 us: 27469
+Test 9:
+MM: sec: 0 us: 5896
+L3: sec: 0 us: 33966
+L2: sec: 0 us: 35341
+Test 1:
+MM: sec: 1 us: -995526
+Test 2:
+MM: sec: 0 us: 4485
+Test 3:
+MM: sec: 0 us: 4558
+L2: sec: 0 us: 26198
+Test 4:
+MM: sec: 0 us: 6615
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6620
+L3: sec: 0 us: 22386
+Test 6:
+MM: sec: 0 us: 6628
+MM: sec: 0 us: 6625
+Test 7:
+MM: sec: 0 us: 13834
+MM: sec: 0 us: 13942
+MM: sec: 0 us: 13798
+MM: sec: 0 us: 13911
+Test 8:
+MM: sec: 0 us: 11251
+L3H: sec: 0 us: 23191
+L2: sec: 0 us: 28007
+Test 9:
+MM: sec: 0 us: 10830
+L3: sec: 0 us: 23052
+L2: sec: 0 us: 28562
+Test 1:
+MM: sec: 0 us: 4486
+Test 2:
+MM: sec: 0 us: 4489
+Test 3:
+MM: sec: 0 us: 4539
+L2: sec: 0 us: 26188
+Test 4:
+MM: sec: 0 us: 6628
+L3H: sec: 0 us: 22384
+Test 5:
+MM: sec: 0 us: 6625
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6619
+MM: sec: 0 us: 6621
+Test 7:
+MM: sec: 0 us: 13858
+MM: sec: 0 us: 13899
+MM: sec: 0 us: 13920
+MM: sec: 0 us: 13854
+Test 8:
+MM: sec: 0 us: 6033
+L3H: sec: 0 us: 33328
+L2: sec: 0 us: 36401
+Test 9:
+MM: sec: 0 us: 6044
+L3: sec: 0 us: 33310
+L2: sec: 0 us: 30512
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4509
+Test 3:
+MM: sec: 0 us: 4548
+L2: sec: 0 us: 26206
+Test 4:
+MM: sec: 0 us: 6627
+L3H: sec: 0 us: 22381
+Test 5:
+MM: sec: 0 us: 6615
+L3: sec: 0 us: 22385
+Test 6:
+MM: sec: 0 us: 6618
+MM: sec: 0 us: 6614
+Test 7:
+MM: sec: 0 us: 13862
+MM: sec: 0 us: 13884
+MM: sec: 0 us: 13900
+MM: sec: 0 us: 13847
+Test 8:
+MM: sec: 0 us: 13708
+L3H: sec: 0 us: 25989
+L2: sec: 0 us: 27690
+Test 9:
+MM: sec: 0 us: 5337
+L3: sec: 0 us: 37677
+L2: sec: 0 us: 36167
+Test 1:
+MM: sec: 0 us: 4477
+Test 2:
+MM: sec: 0 us: 4483
+Test 3:
+MM: sec: 0 us: 4533
+L2: sec: 0 us: 26323
+Test 4:
+MM: sec: 0 us: 6627
+L3H: sec: 0 us: 22386
+Test 5:
+MM: sec: 0 us: 6619
+L3: sec: 0 us: 22389
+Test 6:
+MM: sec: 0 us: 6644
+MM: sec: 0 us: 6643
+Test 7:
+MM: sec: 0 us: 13886
+MM: sec: 0 us: 13886
+MM: sec: 0 us: 13988
+MM: sec: 0 us: 13772
+Test 8:
+MM: sec: 0 us: 12171
+L3H: sec: 0 us: 23727
+L2: sec: 0 us: 27340
+Test 9:
+MM: sec: 0 us: 5468
+L3: sec: 0 us: 36393
+L2: sec: 0 us: 31077
+Test 1:
+MM: sec: 0 us: 4476
+Test 2:
+MM: sec: 0 us: 4481
+Test 3:
+MM: sec: 0 us: 4557
+L2: sec: 0 us: 26145
+Test 4:
+MM: sec: 0 us: 6617
+L3H: sec: 0 us: 22383
+Test 5:
+MM: sec: 0 us: 6625
+L3: sec: 0 us: 22392
+Test 6:
+MM: sec: 0 us: 6641
+MM: sec: 0 us: 6637
+Test 7:
+MM: sec: 0 us: 13927
+MM: sec: 0 us: 13827
+MM: sec: 0 us: 13891
+MM: sec: 0 us: 13858
+Test 8:
+MM: sec: 0 us: 11495
+L3H: sec: 0 us: 23556
+L2: sec: 0 us: 28221
+Test 9:
+MM: sec: 0 us: 5528
+L3: sec: 0 us: 36014
+L2: sec: 0 us: 33391
