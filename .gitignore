@@ -11,8 +11,3 @@
 *.so
 *.so.*
 *.dylib
-
-# Executables
-*.exe
-*.out
-*.app
