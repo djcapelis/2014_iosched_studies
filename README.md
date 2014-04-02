@@ -17,8 +17,8 @@ This contains the R script used to analyze the data, as well as the stddev and m
 ### figures/
 This contains the resulting figures generated from some of this data in the form of eps files which display graphs.
 
-### Fidelity
-While my hope is that I correctly got the correct versions of the code, datasets and analysis scripts, I can't be sure I did.  If something here doesn't make sense, I may have made a mistake.  Drop me a line and let's talk.
-
 ### Tags
 * tag: prerelease - The best effort to tag the correct version of these datasets, scripts and code used for pre-release drafts of publications based on these experiments.
+
+### Fidelity
+While my hope is that I correctly got the correct versions of the code, datasets and analysis scripts, I can't be sure I did.  If something here doesn't make sense, I may have made a mistake.  Drop me a line and let's talk.
